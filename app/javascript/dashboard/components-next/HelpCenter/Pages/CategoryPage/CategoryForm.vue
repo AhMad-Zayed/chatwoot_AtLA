@@ -14,6 +14,7 @@ import { useRoute } from 'vue-router';
 import { useVuelidate } from '@vuelidate/core';
 import { required, minLength } from '@vuelidate/validators';
 import { convertToCategorySlug } from 'dashboard/helper/commons.js';
+import { useBranding } from 'shared/composables/useBranding';
 
 import Input from 'dashboard/components-next/input/Input.vue';
 import TextArea from 'dashboard/components-next/textarea/TextArea.vue';
@@ -58,6 +59,7 @@ const EmojiIconPicker = defineAsyncComponent(
 const { t } = useI18n();
 const route = useRoute();
 const getters = useStoreGetters();
+const { replaceInstallationName } = useBranding();
 
 const isCreating = useMapGetter('categories/isCreating');
 
@@ -105,11 +107,13 @@ const slugError = computed(() =>
 
 const slugHelpText = computed(() => {
   const { portalSlug, locale } = route.params;
-  return t('HELP_CENTER.CATEGORY_PAGE.CATEGORY_DIALOG.FORM.SLUG.HELP_TEXT', {
-    portalSlug,
-    localeCode: locale,
-    categorySlug: state.slug,
-  });
+  return replaceInstallationName(
+    t('HELP_CENTER.CATEGORY_PAGE.CATEGORY_DIALOG.FORM.SLUG.HELP_TEXT', {
+      portalSlug,
+      localeCode: locale,
+      categorySlug: state.slug,
+    })
+  );
 });
 
 const onSelectIcon = ({ type, value, color }) => {

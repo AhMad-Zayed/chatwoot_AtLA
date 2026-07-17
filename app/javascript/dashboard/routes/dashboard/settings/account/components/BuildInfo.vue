@@ -4,11 +4,13 @@ import { useAccount } from 'dashboard/composables/useAccount';
 import { useMapGetter } from 'dashboard/composables/store';
 import { copyTextToClipboard } from 'shared/helpers/clipboard';
 import { useI18n } from 'vue-i18n';
+import { useBranding } from 'shared/composables/useBranding';
 
 import semver from 'semver';
 
 const { t } = useI18n();
 const { currentAccount } = useAccount();
+const { replaceInstallationName } = useBranding();
 
 const latestChatwootVersion = computed(() => {
   return currentAccount.value.latest_chatwoot_version;
@@ -37,9 +39,11 @@ const copyGitSha = () => {
   <div class="p-4 text-sm text-center">
     <div v-if="hasAnUpdateAvailable && globalConfig.displayManifest">
       {{
-        t('GENERAL_SETTINGS.UPDATE_CHATWOOT', {
-          latestChatwootVersion: latestChatwootVersion,
-        })
+        replaceInstallationName(
+          t('GENERAL_SETTINGS.UPDATE_CHATWOOT', {
+            latestChatwootVersion: latestChatwootVersion,
+          })
+        )
       }}
     </div>
     <div class="divide-x divide-n-slate-9">

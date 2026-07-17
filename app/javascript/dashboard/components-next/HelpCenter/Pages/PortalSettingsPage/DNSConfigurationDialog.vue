@@ -1,6 +1,7 @@
 <script setup>
 import { reactive, computed, ref } from 'vue';
 import { useI18n } from 'vue-i18n';
+import { useBranding } from 'shared/composables/useBranding';
 import { useAlert } from 'dashboard/composables';
 import { copyTextToClipboard } from 'shared/helpers/clipboard';
 import { getHostNameFromURL } from 'dashboard/helper/URLHelper';
@@ -21,6 +22,7 @@ const props = defineProps({
 const emit = defineEmits(['send', 'close']);
 
 const { t } = useI18n();
+const { replaceInstallationName } = useBranding();
 
 const state = reactive({
   email: '',
@@ -101,8 +103,10 @@ defineExpose({ dialogRef });
           </h3>
           <p class="mb-0 text-sm text-n-slate-12">
             {{
-              t(
-                'HELP_CENTER.PORTAL_SETTINGS.CONFIGURATION_FORM.CUSTOM_DOMAIN.DNS_CONFIGURATION_DIALOG.DESCRIPTION'
+              replaceInstallationName(
+                t(
+                  'HELP_CENTER.PORTAL_SETTINGS.CONFIGURATION_FORM.CUSTOM_DOMAIN.DNS_CONFIGURATION_DIALOG.DESCRIPTION'
+                )
               )
             }}
           </p>
