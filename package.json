@@ -13,7 +13,7 @@
     "dev": "overmind start -f ./Procfile.dev",
     "ruby:prettier": "bundle exec rubocop -a",
     "build:sdk": "vite build --config vite.lib.config.ts",
-    "prepare": "husky install",
+    "prepare": "husky install || true",
     "size": "size-limit",
     "story:dev": "histoire dev",
     "story:build": "histoire build",
