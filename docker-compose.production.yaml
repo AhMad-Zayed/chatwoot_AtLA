@@ -7,7 +7,7 @@ services:
       context: .
       dockerfile: ./docker/Dockerfile
 
-    image: atlahub-chatwoot:production
+    # image: atlahub-chatwoot:production
 
     env_file:
       - .env
@@ -45,7 +45,7 @@ services:
       context: .
       dockerfile: ./docker/Dockerfile
 
-    image: atlahub-chatwoot:production
+    # image: atlahub-chatwoot:production
 
     env_file:
       - .env
