@@ -178,7 +178,6 @@
 - name: channel_voice
   display_name: Voice Channel
   enabled: false
-  premium: true
 - name: notion_integration
   display_name: Notion Integration
   enabled: false

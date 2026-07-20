@@ -15,7 +15,7 @@
 
 # ------- Branding Related Config ------- #
 - name: INSTALLATION_NAME
-  value: 'Chatwoot'
+  value: 'AtlaHub Chat App'
   display_title: 'Installation Name'
   description: 'The installation wide name that would be used in the dashboard, title etc.'
 - name: LOGO_THUMBNAIL
@@ -103,8 +103,8 @@
   description: 'The domain name to be used for generating conversation continuity emails (reply+id@domain.com)'
   locked: false
 - name: MAILER_SUPPORT_EMAIL
+  value: 'support@atlahub.tech'
   display_title: 'Support Email'
-  value:
   description: 'The support email address for your installation'
   locked: false
 - name: ACCOUNT_EMAILS_LIMIT

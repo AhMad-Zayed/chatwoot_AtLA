@@ -1,6 +1,6 @@
 module I18nWhiteLabelPatch
-  def translate(*args)
-    result = super(*args)
+  def translate(*args, **kwargs, &block)
+    result = super(*args, **kwargs, &block)
     if result.is_a?(String) && result.include?('Chatwoot')
       # Fetch INSTALLATION_NAME dynamically
       # Using begin/rescue just in case GlobalConfig isn't fully loaded or table doesn't exist
