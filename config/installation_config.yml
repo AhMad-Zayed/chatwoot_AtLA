@@ -18,6 +18,7 @@
   value: 'AtlaHub Chat App'
   display_title: 'Installation Name'
   description: 'The installation wide name that would be used in the dashboard, title etc.'
+  locked: false
 - name: LOGO_THUMBNAIL
   value: '/brand-assets/logo_thumbnail.svg'
   display_title: 'Logo Thumbnail'
