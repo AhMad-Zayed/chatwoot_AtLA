@@ -123,7 +123,7 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Du kan modtage e-mails på dit brugerdefinerede domæne nu."
       }
     },
-    "UPDATE_CHATWOOT": "En opdatering {latestChatwootVersion} til Chatwoot er tilgængelig. Opdater venligst din instans.",
+    "UPDATE_CHATWOOT": "An update {latestChatwootVersion} for AtlaHub is available. Please check out the upcoming updates and features.",
     "LEARN_MORE": "Lær mere",
     "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
     "UPGRADE": "Upgrade to continue using Chatwoot",

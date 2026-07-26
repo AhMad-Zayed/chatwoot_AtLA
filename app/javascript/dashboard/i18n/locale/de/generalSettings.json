@@ -123,7 +123,7 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Sie können jetzt E-Mails in Ihrer benutzerdefinierten Domäne empfangen."
       }
     },
-    "UPDATE_CHATWOOT": "Ein Update {latestChatwootVersion} für Chatwoot ist verfügbar. Bitte aktualisieren Sie Ihre Instanz.",
+    "UPDATE_CHATWOOT": "An update {latestChatwootVersion} for AtlaHub is available. Please check out the upcoming updates and features.",
     "LEARN_MORE": "Mehr erfahren",
     "PAYMENT_PENDING": "Ihre Zahlung steht noch aus. Um Chatwoot weiter zu verwenden, aktualisieren Sie Bitte Ihre Zahlungsinformationen",
     "UPGRADE": "Upgrade to continue using Chatwoot",
