@@ -55,7 +55,7 @@ class Internal::AtlahubReleaseWorkerJob < ApplicationJob
       #{upstream_notes}
     PROMPT
 
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=#{api_key}"
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=#{api_key}"
     payload = {
       contents: [{ parts: [{ text: prompt }] }]
     }
