@@ -42,6 +42,10 @@ Rails.application.routes.draw do
   get '/api', to: 'api#index'
   namespace :api, defaults: { format: 'json' } do
     namespace :v1 do
+      namespace :atlahub do
+        get 'releases/latest', to: 'releases#latest'
+      end
+
       # ----------------------------------
       # start of account scoped api routes
       resources :accounts, only: [:create, :show, :update] do
@@ -692,6 +696,10 @@ Rails.application.routes.draw do
     get 'super_admin/logout', to: 'super_admin/devise/sessions#destroy'
     namespace :super_admin do
       root to: 'dashboard#index'
+
+      resources :atlahub_releases, only: [:index] do
+        post :publish, on: :member
+      end
 
       resource :app_config, only: [:show, :create]
       resource :push_diagnostics, only: [:show, :create] do

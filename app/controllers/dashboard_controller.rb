@@ -73,7 +73,7 @@ class DashboardController < ActionController::Base
 
   def app_config
     {
-      APP_VERSION: Chatwoot.config[:version],
+      APP_VERSION: YAML.load_file(Rails.root.join('config/atlahub_release.yml'))['current_version'],
       VAPID_PUBLIC_KEY: VapidService.public_key,
       ENABLE_ACCOUNT_SIGNUP: GlobalConfigService.load('ENABLE_ACCOUNT_SIGNUP', 'false'),
       FB_APP_ID: GlobalConfigService.load('FB_APP_ID', ''),

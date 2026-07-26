@@ -1,0 +1,93 @@
+<% content_for(:title) do %>
+  AtlaHub Release Manager
+<% end %>
+
+<div class="p-6">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold mb-2">AtlaHub Release Manager</h1>
+    <p class="text-slate-600">Autonomous Release Control Panel powered by Gemini AI.</p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+    <!-- Upstream Panel -->
+    <div class="bg-white p-6 rounded-lg shadow-sm border border-slate-200">
+      <h2 class="text-xl font-semibold mb-4 text-slate-800 border-b pb-2">Upstream (Internal)</h2>
+      <div class="flex justify-between items-center mb-2">
+        <span class="text-slate-600 font-medium">Chatwoot Latest:</span>
+        <span class="bg-slate-100 text-slate-800 px-3 py-1 rounded-full text-sm font-semibold"><%= @upstream_version %></span>
+      </div>
+      <div class="flex justify-between items-center">
+        <span class="text-slate-600 font-medium">Status:</span>
+        <% if @releases.any? && @releases.first.source_version == @upstream_version %>
+          <span class="text-green-600 font-semibold">Synced</span>
+        <% else %>
+          <span class="text-blue-600 font-semibold">New version available</span>
+        <% end %>
+      </div>
+    </div>
+
+    <!-- AtlaHub Panel -->
+    <div class="bg-white p-6 rounded-lg shadow-sm border border-slate-200">
+      <h2 class="text-xl font-semibold mb-4 text-slate-800 border-b pb-2">AtlaHub Releases</h2>
+      <div class="flex justify-between items-center mb-2">
+        <span class="text-slate-600 font-medium">Current Installed:</span>
+        <span class="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full text-sm font-semibold"><%= YAML.load_file(Rails.root.join('config/atlahub_release.yml'))['current_version'] rescue '1.0.0' %></span>
+      </div>
+      <div class="flex justify-between items-center">
+        <span class="text-slate-600 font-medium">Latest Published:</span>
+        <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-semibold"><%= @releases.find { |r| r.published? }&.version || 'None' %></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="bg-white rounded-lg shadow-sm border border-slate-200 overflow-hidden">
+    <div class="px-6 py-4 border-b border-slate-200 bg-slate-50">
+      <h3 class="text-lg font-semibold text-slate-800">Release History</h3>
+    </div>
+    
+    <% if @releases.empty? %>
+      <div class="p-6 text-center text-slate-500">
+        No AtlaHub releases generated yet. The AI Worker will populate this when a new upstream version is detected.
+      </div>
+    <% else %>
+      <table class="w-full text-left border-collapse">
+        <thead>
+          <tr class="bg-slate-50 border-b border-slate-200 text-sm text-slate-600 uppercase tracking-wider">
+            <th class="p-4 font-semibold">Version</th>
+            <th class="p-4 font-semibold">Title</th>
+            <th class="p-4 font-semibold">Source (Upstream)</th>
+            <th class="p-4 font-semibold">Status</th>
+            <th class="p-4 font-semibold text-right">Actions</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-slate-200">
+          <% @releases.each do |release| %>
+            <tr class="hover:bg-slate-50 transition-colors">
+              <td class="p-4 font-medium text-slate-900"><%= release.version %></td>
+              <td class="p-4 text-slate-700"><%= release.title %></td>
+              <td class="p-4 text-slate-500 text-sm"><%= release.source_version %></td>
+              <td class="p-4">
+                <% if release.published? %>
+                  <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
+                    Published
+                  </span>
+                <% else %>
+                  <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-yellow-100 text-yellow-800">
+                    Draft (Action Required)
+                  </span>
+                <% end %>
+              </td>
+              <td class="p-4 text-right">
+                <% if release.draft? %>
+                  <%= button_to "Approve & Publish", publish_super_admin_atlahub_release_path(release), method: :post, class: "bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-1.5 px-4 rounded text-sm transition-colors", form_class: "inline", data: { confirm: "Are you sure you want to publish this release? It will become visible to all tenants." } %>
+                <% else %>
+                  <span class="text-slate-400 text-sm">Active</span>
+                <% end %>
+              </td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    <% end %>
+  </div>
+</div>

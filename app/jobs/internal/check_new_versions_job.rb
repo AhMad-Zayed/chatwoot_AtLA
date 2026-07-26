@@ -4,16 +4,22 @@ class Internal::CheckNewVersionsJob < ApplicationJob
   def perform
     return unless Rails.env.production?
 
-    @instance_info = ChatwootHub.sync_with_hub
-    update_version_info
+    fetch_latest_version_from_atlahub
   end
 
   private
 
-  def update_version_info
-    return if @instance_info['version'].blank?
+  def fetch_latest_version_from_atlahub
+    # Fetch from AtlaHub public API as the single source of truth
+    response = RestClient.get('https://api.atlahub.tech/api/v1/atlahub/releases/latest', { accept: :json })
+    parsed_response = JSON.parse(response.body)
+    version = parsed_response['version']
 
-    ::Redis::Alfred.set(::Redis::Alfred::LATEST_CHATWOOT_VERSION, @instance_info['version'])
+    return if version.blank?
+
+    ::Redis::Alfred.set(::Redis::Alfred::LATEST_CHATWOOT_VERSION, version)
+  rescue StandardError => e
+    Rails.logger.error "Exception fetching version: #{e.message}"
   end
 end
 
