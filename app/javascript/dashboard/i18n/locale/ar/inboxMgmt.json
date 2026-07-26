@@ -1,4 +1,4 @@
-﻿{
+{
   "INBOX_MGMT": {
     "HEADER": "قنوات التواصل",
     "DESCRIPTION": "القناة هي وضع الاتصال الذي يختاره العميل للتفاعل معك. صندوق الوارد هو المكان الذي تدير فيه التفاعلات لقناة معينة. ويمكن أن تشمل الاتصالات من مصادر مختلفة مثل البريد الإلكتروني، والمحادثة الحية، ووسائط الإعلام الاجتماعية.",
@@ -1167,7 +1167,7 @@
         "AGENT_MESSAGE": "مرحبا"
       },
       "BRANDING_TEXT": "مدعوم بواسطة AtlaHub",
-      "SCRIPT_SETTINGS": "\n      window.AtlaHubSettings = {options};"
+      "SCRIPT_SETTINGS": "\n      window.chatwootSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": {

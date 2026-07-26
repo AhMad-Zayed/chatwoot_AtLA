@@ -1,4 +1,4 @@
-﻿{
+{
   "GENERAL_SETTINGS": {
     "LIMIT_MESSAGES": {
       "CONVERSATION": "You have exceeded the conversation limit. Hacker plan allows only 500 conversations.",
@@ -123,11 +123,11 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "You can receive emails in your custom domain now."
       }
     },
-    "UPDATE_AtlaHub": "An update {latestAtlaHubVersion} for AtlaHub is available. Please check out the upcoming updates and features.",
+    "UPDATE_CHATWOOT": "An update {latestChatwootVersion} for AtlaHub is available. Please check out the upcoming updates and features.",
     "LEARN_MORE": "Learn more",
-    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using AtlaHub",
-    "UPGRADE": "Upgrade to continue using AtlaHub",
-    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using AtlaHub",
+    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
+    "UPGRADE": "Upgrade to continue using Chatwoot",
+    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Chatwoot",
     "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
