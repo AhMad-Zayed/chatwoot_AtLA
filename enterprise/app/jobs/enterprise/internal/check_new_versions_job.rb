@@ -1,10 +1,9 @@
 module Enterprise::Internal::CheckNewVersionsJob
   def perform
     super
-    update_plan_info
-    reconcile_premium_config_and_features
+    # AtlaHub: Disabled updating plan info and reconciling premium config/features
+    # to completely sever Chatwoot tracking and ensure true open source.
   end
-
   private
 
   def update_plan_info

@@ -42,6 +42,10 @@ export default {
         this.isAdmin
       );
     },
+    releaseNotesUrl() {
+      const locale = this.$i18n.locale === 'ar' ? 'ar' : 'en';
+      return `https://atlahub.tech/${locale}/releases`;
+    },
   },
   methods: {
     isVersionNotificationDismissed(version) {
@@ -73,7 +77,7 @@ export default {
     v-if="shouldShowBanner"
     color-scheme="primary"
     :banner-message="bannerMessage"
-    href-link="https://www.atlahub.tech/atlahub-chat-app/releases/latest"
+    :href-link="releaseNotesUrl"
     :href-link-text="$t('GENERAL_SETTINGS.LEARN_MORE')"
     has-close-button
     @close="dismissUpdateBanner"

@@ -1,0 +1,1243 @@
+=== LAST 200 LOG ENTRIES ===
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 24.71 Fetching rack-mini-profiler 3.2.0
+#15 24.73 Fetching rack-proxy 0.7.7
+#15 24.74 Installing rack-proxy 0.7.7
+#15 24.80 Fetching addressable 2.9.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 24.80 Fetching bundler-audit 0.9.1
+#15 24.85 Installing rack-mini-profiler 3.2.0
+#15 24.86 Installing addressable 2.9.0
+#15 24.87 Installing bundler-audit 0.9.1
+#15 24.88 Fetching net-http 0.9.1
+#15 24.89 Fetching faraday-multipart 1.2.0
+#15 24.90 Installing net-http 0.9.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 24.91 Installing faraday-multipart 1.2.0
+#15 24.93 Fetching i18n 1.14.7
+#15 24.93 Fetching tzinfo 2.0.6
+#15 24.94 Installing i18n 1.14.7
+#15 24.95 Fetching sprockets 4.2.1
+#15 24.96 Installing tzinfo 2.0.6
+#15 24.98 Installing sprockets 4.2.1
+#15 24.99 Fetching dry-core 1.1.0
+#15 25.00 Fetching aws-sigv4 1.12.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 25.01 Installing dry-core 1.1.0
+#15 25.02 Installing aws-sigv4 1.12.1
+#15 25.03 Fetching auth-sanitizer 0.2.1
+#15 25.05 Fetching nokogiri 1.19.4 (x86_64-linux-gnu)
+#15 25.06 Installing auth-sanitizer 0.2.1
+#15 25.13 Fetching parser 3.3.8.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 25.13 Fetching barnes 0.0.9
+#15 25.13 Fetching sassc 2.4.0
+#15 25.16 Installing barnes 0.0.9
+#15 25.19 Installing sassc 2.4.0 with native extensions
+#15 25.20 Fetching libddwaf 1.24.1.0.3 (x86_64-linux)
+#15 25.27 Installing parser 3.3.8.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 25.34 Installing libddwaf 1.24.1.0.3 (x86_64-linux)
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 25.95 Fetching ffi-compiler 1.0.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 25.97 Installing ffi-compiler 1.0.1
+#15 25.98 Fetching ruby-vips 2.1.4
+#15 25.98 Installing nokogiri 1.19.4 (x86_64-linux-gnu)
+#15 26.00 Installing ruby-vips 2.1.4
+#15 26.01 Fetching rb-inotify 0.10.1
+#15 26.02 Fetching reline 0.3.6
+#15 26.03 Installing rb-inotify 0.10.1
+#15 26.04 Installing reline 0.3.6
+#15 26.06 Fetching csv-safe 3.3.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 26.07 Fetching iso-639 0.3.8
+#15 26.08 Fetching ecma-re-validator 0.4.0
+#15 26.08 Installing csv-safe 3.3.1
+#15 26.08 Fetching mock_redis 0.36.0
+#15 26.09 Installing iso-639 0.3.8
+#15 26.10 Installing ecma-re-validator 0.4.0
+#15 26.12 Installing mock_redis 0.36.0
+#15 26.13 Fetching puma 7.2.1
+#15 26.14 Fetching uglifier 4.2.0
+#15 26.18 Installing puma 7.2.1 with native extensions
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 26.18 Installing uglifier 4.2.0
+#15 26.25 Fetching mime-types 3.4.1
+#15 26.27 Installing mime-types 3.4.1
+#15 26.35 Fetching gli 2.22.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 26.35 Fetching representable 3.2.0
+#15 26.42 Installing representable 3.2.0
+#15 26.43 Installing gli 2.22.2
+#15 26.50 Fetching json_refs 0.1.8
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 26.52 Installing json_refs 0.1.8
+#15 26.53 Fetching ruby_parser 3.20.0
+#15 26.54 Fetching pry 0.14.2
+#15 26.58 Installing pry 0.14.2
+#15 26.64 Installing ruby_parser 3.20.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 26.65 Fetching unf 0.1.4
+#15 26.68 Installing unf 0.1.4
+#15 26.70 Fetching opentelemetry-common 0.23.0
+#15 26.70 Fetching opentelemetry-registry 0.4.0
+#15 26.71 Installing opentelemetry-common 0.23.0
+#15 26.72 Installing opentelemetry-registry 0.4.0
+#15 26.73 Fetching opentelemetry-semantic_conventions 1.36.0
+#15 26.73 Fetching rspec-core 3.13.0
+#15 26.76 Installing opentelemetry-semantic_conventions 1.36.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 26.77 Fetching rspec-expectations 3.13.2
+#15 26.77 Installing rspec-core 3.13.0
+#15 26.79 Installing rspec-expectations 3.13.2
+#15 26.85 Fetching rspec-mocks 3.13.1
+#15 26.86 Fetching unicode-display_width 3.1.4
+#15 26.87 Installing rspec-mocks 3.13.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 26.88 Installing unicode-display_width 3.1.4
+#15 26.90 Fetching simplecov 0.22.0
+#15 26.91 Installing simplecov 0.22.0
+#15 26.93 Fetching bootsnap 1.16.0
+#15 26.94 Installing bootsnap 1.16.0 with native extensions
+#15 26.95 Fetching sidekiq 7.3.1
+#15 27.01 Fetching redis 5.0.6
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.02 Installing sidekiq 7.3.1
+#15 27.03 Installing redis 5.0.6
+#15 27.06 Fetching snaky_hash 2.0.5
+#15 27.19 Installing snaky_hash 2.0.5
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.21 Fetching net-imap 0.6.4.1
+#15 27.22 Fetching net-pop 0.1.2
+#15 27.23 Installing net-pop 0.1.2
+#15 27.24 Installing net-imap 0.6.4.1
+#15 27.25 Fetching net-smtp 0.3.4
+#15 27.26 Installing net-smtp 0.3.4
+#15 27.28 Fetching omniauth 2.1.4
+#15 27.28 Fetching vite_ruby 3.10.2
+#15 27.32 Installing omniauth 2.1.4
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.33 Installing vite_ruby 3.10.2
+#15 27.35 Fetching down 5.4.0
+#15 27.44 Fetching launchy 3.1.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.45 Installing down 5.4.0
+#15 27.48 Installing launchy 3.1.1
+#15 27.50 Fetching faraday-net_http 3.4.4
+#15 27.51 Fetching bundle-audit 0.1.0
+#15 27.52 Installing faraday-net_http 3.4.4
+#15 27.54 Installing bundle-audit 0.1.0
+#15 27.54 Fetching faker 3.2.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.55 Fetching cronex 0.15.0
+#15 27.55 Fetching et-orbi 1.2.11
+#15 27.59 Installing cronex 0.15.0
+#15 27.60 Installing et-orbi 1.2.11
+#15 27.62 Fetching tzinfo-data 1.2023.3
+#15 27.63 Fetching dry-configurable 1.3.0
+#15 27.66 Installing dry-configurable 1.3.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.76 Installing tzinfo-data 1.2023.3
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.79 Fetching oauth-tty 1.0.8
+#15 27.79 Fetching activesupport 7.1.5.2
+#15 27.79 Installing faker 3.2.0
+#15 27.81 Installing oauth-tty 1.0.8
+#15 27.86 Installing activesupport 7.1.5.2
+#15 27.87 Fetching aws-sdk-core 3.240.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 27.94 Installing aws-sdk-core 3.240.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 28.33 Fetching crack 1.0.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 28.35 Installing crack 1.0.0
+#15 28.40 Fetching dry-logic 1.6.0
+#15 28.42 Fetching multi_xml 0.9.1
+#15 28.42 Installing dry-logic 1.6.0
+#15 28.44 Installing multi_xml 0.9.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 28.50 Fetching json_skooma 0.2.5
+#15 28.51 Fetching oj 3.17.3
+#15 28.52 Installing json_skooma 0.2.5
+#15 28.56 Fetching sentry-ruby 5.19.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 28.58 Installing oj 3.17.3 with native extensions
+#15 28.59 Installing sentry-ruby 5.19.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 28.77 Fetching datadog 2.19.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 28.85 Fetching llhttp-ffi 0.4.0
+#15 28.86 Fetching scout_apm 5.3.3
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 29.10 Installing llhttp-ffi 0.4.0 with native extensions
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 29.17 Fetching listen 3.8.0
+#15 29.18 Installing scout_apm 5.3.3 with native extensions
+#15 29.19 Installing listen 3.8.0
+#15 29.20 Installing datadog 2.19.0 with native extensions
+#15 29.24 Fetching sass-listen 4.0.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 29.26 Installing sass-listen 4.0.0
+#15 29.30 Fetching irb 1.7.2
+#15 29.32 Installing irb 1.7.2
+#15 29.37 Fetching image_processing 1.12.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 29.43 Installing image_processing 1.12.2
+#15 29.52 Fetching json_schemer 0.2.24
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 29.53 Installing json_schemer 0.2.24
+#15 29.55 Fetching loofah 2.23.1
+#15 29.57 Installing loofah 2.23.1
+#15 29.59 Fetching html2text 0.4.0
+#15 29.60 Installing html2text 0.4.0
+#15 29.61 Fetching ruby-saml 1.18.1
+#15 29.64 Installing ruby-saml 1.18.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 29.67 Fetching reverse_markdown 2.1.1
+#15 29.68 Installing reverse_markdown 2.1.1
+#15 29.71 Fetching pry-rails 0.3.9
+#15 29.73 Installing pry-rails 0.3.9
+#15 29.78 Fetching domain_name 0.5.20190701
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 29.81 Installing domain_name 0.5.20190701
+#15 29.83 Fetching ruby2ruby 2.5.0
+#15 29.85 Installing ruby2ruby 2.5.0
+#15 29.87 Fetching rspec_junit_formatter 0.6.0
+#15 29.95 Installing rspec_junit_formatter 0.6.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.00 Fetching opentelemetry-sdk 1.10.0
+#15 30.01 Fetching redis-namespace 1.10.0
+#15 30.02 Installing opentelemetry-sdk 1.10.0
+#15 30.03 Installing redis-namespace 1.10.0
+#15 30.04 Fetching judoscale-sidekiq 1.8.2
+#15 30.05 Fetching newrelic-sidekiq-metrics 1.6.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.07 Installing judoscale-sidekiq 1.8.2
+#15 30.07 Installing newrelic-sidekiq-metrics 1.6.2
+#15 30.09 Fetching sidekiq_alive 2.5.0
+#15 30.09 Fetching mail 2.8.1
+#15 30.10 Installing sidekiq_alive 2.5.0
+#15 30.11 Fetching letter_opener 1.10.0
+#15 30.13 Installing letter_opener 1.10.0
+#15 30.14 Installing mail 2.8.1
+#15 30.14 Fetching faraday 2.14.3
+#15 30.20 Installing faraday 2.14.3
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.32 Fetching fugit 1.11.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.34 Installing fugit 1.11.1
+#15 30.35 Fetching oauth 1.1.6
+#15 30.36 Fetching rails-dom-testing 2.2.0
+#15 30.37 Installing rails-dom-testing 2.2.0
+#15 30.47 Installing oauth 1.1.6
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.49 Fetching globalid 1.2.1
+#15 30.50 Installing globalid 1.2.1
+#15 30.52 Fetching activemodel 7.1.5.2
+#15 30.52 Fetching bullet 8.0.7
+#15 30.54 Installing activemodel 7.1.5.2
+#15 30.56 Installing bullet 8.0.7
+#15 30.58 Fetching factory_bot 6.4.5
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.60 Fetching groupdate 6.2.1
+#15 30.61 Installing factory_bot 6.4.5
+#15 30.61 Installing groupdate 6.2.1
+#15 30.69 Fetching pundit 2.3.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.71 Fetching shoulda-matchers 5.3.0
+#15 30.71 Installing pundit 2.3.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.90 Installing shoulda-matchers 5.3.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 30.91 Fetching time_diff 0.3.0
+#15 30.91 Fetching working_hours 1.4.1
+#15 30.93 Installing time_diff 0.3.0
+#15 30.94 Installing working_hours 1.4.1
+#15 30.95 Fetching aws-sdk-kms 1.118.0
+#15 30.96 Fetching aws-sdk-sns 1.70.0
+#15 30.97 Fetching webmock 3.23.1
+#15 30.97 Installing aws-sdk-kms 1.118.0
+#15 30.98 Installing aws-sdk-sns 1.70.0
+#15 30.99 Installing webmock 3.23.1
+#15 31.01 Fetching dry-types 1.9.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 31.02 Fetching httparty 0.24.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 31.02 Fetching skooma 0.3.7
+#15 31.07 Installing dry-types 1.9.1
+#15 31.08 Installing httparty 0.24.0
+#15 31.08 Installing skooma 0.3.7
+#15 31.14 Fetching sentry-sidekiq 5.19.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 31.15 Fetching spring-watcher-listen 2.1.0
+#15 31.16 Installing sentry-sidekiq 5.19.0
+#15 31.17 Installing spring-watcher-listen 2.1.0
+#15 31.20 Fetching sass 3.7.4
+#15 31.21 Fetching debug 1.8.0
+#15 31.21 Fetching rails-html-sanitizer 1.6.1
+#15 31.26 Installing sass 3.7.4
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 31.26 Installing rails-html-sanitizer 1.6.1
+#15 31.27 Installing debug 1.8.0 with native extensions
+#15 31.29 Fetching omniauth-saml 2.2.4
+#15 31.31 Installing omniauth-saml 2.2.4
+#15 31.37 Fetching http-cookie 1.0.5
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 31.40 Installing http-cookie 1.0.5
+#15 31.43 Fetching faraday-retry 2.4.0
+#15 31.43 Fetching faraday-follow_redirects 0.3.0
+#15 31.44 Installing faraday-retry 2.4.0
+#15 31.54 Fetching faraday-net_http_persistent 2.1.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 31.54 Installing faraday-follow_redirects 0.3.0
+#15 31.55 Fetching faraday-mashify 1.0.0
+#15 31.55 Installing faraday-net_http_persistent 2.1.0
+#15 31.56 Fetching faraday_middleware-aws-sigv4 1.0.1
+#15 31.57 Installing faraday-mashify 1.0.0
+#15 31.58 Installing faraday_middleware-aws-sigv4 1.0.1
+#15 31.60 Fetching google-cloud-env 2.2.1
+#15 31.60 Fetching signet 0.17.0
+#15 31.61 Installing google-cloud-env 2.2.1
+#15 31.63 Installing signet 0.17.0
+#15 31.64 Fetching koala 3.4.0
+#15 31.66 Fetching oauth2 2.0.22
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.03 Installing oauth2 2.0.22
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.14 Fetching opensearch-ruby 3.4.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.14 Fetching ruby-openai 7.3.1
+#15 32.17 Installing ruby-openai 7.3.1
+#15 32.18 Fetching twilio-ruby 7.6.0
+#15 32.18 Installing opensearch-ruby 3.4.0
+#15 32.24 Fetching activejob 7.1.5.2
+#15 32.26 Installing activejob 7.1.5.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.30 Installing twilio-ruby 7.6.0
+#15 32.35 Fetching sidekiq-cron 2.4.0
+#15 32.37 Installing sidekiq-cron 2.4.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.44 Fetching gmail_xoauth 0.4.3
+#15 32.45 Installing gmail_xoauth 0.4.3
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.64 Fetching twitty 0.1.5
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.66 Installing twitty 0.1.5
+#15 32.73 Fetching activerecord 7.1.5.2
+#15 32.73 Fetching searchkick 5.5.2
+#15 32.77 Installing searchkick 5.5.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 32.78 Installing koala 3.4.0
+#15 32.83 Fetching valid_email2 5.2.6
+#15 32.85 Installing activerecord 7.1.5.2
+#15 32.95 Installing valid_email2 5.2.6
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.12 Fetching aws-sdk-s3 1.208.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.22 Installing aws-sdk-s3 1.208.0
+#15 33.24 Fetching dry-schema 1.14.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.28 Installing dry-schema 1.14.1
+#15 33.33 Fetching facebook-messenger 2.0.1
+#15 33.34 Installing facebook-messenger 2.0.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.39 Fetching actionview 7.1.5.2
+#15 33.40 Fetching http 5.1.1
+#15 33.40 Fetching rest-client 2.1.0
+#15 33.43 Installing actionview 7.1.5.2
+#15 33.44 Installing http 5.1.1
+#15 33.45 Installing rest-client 2.1.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.46 Fetching scss_lint 0.60.0
+#15 33.49 Installing scss_lint 0.60.0
+#15 33.61 Fetching ruby_llm 1.15.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.62 Fetching slack-ruby-client 2.7.0
+#15 33.66 Installing ruby_llm 1.15.0
+#15 33.67 Installing slack-ruby-client 2.7.0
+#15 33.68 Fetching google-cloud-core 1.7.1
+#15 33.70 Installing google-cloud-core 1.7.1
+#15 33.75 Fetching googleauth 1.11.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.77 Installing googleauth 1.11.2
+#15 33.81 Fetching omniauth-oauth2 1.8.0
+#15 33.83 Installing omniauth-oauth2 1.8.0
+#15 33.83 Fetching activerecord-import 2.1.0
+#15 33.86 Installing activerecord-import 2.1.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 33.91 Fetching acts-as-taggable-on 12.0.0
+#15 33.93 Installing acts-as-taggable-on 12.0.0
+#15 34.04 Fetching kaminari-activerecord 1.2.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.05 Installing kaminari-activerecord 1.2.2
+#15 34.07 Fetching annotaterb 4.20.0
+#15 34.09 Installing annotaterb 4.20.0
+#15 34.09 Fetching audited 5.4.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.11 Fetching database_cleaner-active_record 2.1.0
+#15 34.11 Fetching hairtrigger 1.0.0
+#15 34.11 Installing audited 5.4.1
+#15 34.12 Fetching neighbor 0.2.3
+#15 34.13 Installing database_cleaner-active_record 2.1.0
+#15 34.14 Installing hairtrigger 1.0.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.15 Installing neighbor 0.2.3
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.18 Fetching pg_search 2.3.6
+#15 34.19 Fetching procore-sift 1.0.0
+#15 34.19 Fetching seed_dump 3.3.1
+#15 34.19 Fetching fast-mcp 1.5.0
+#15 34.19 Fetching elastic-apm 4.6.2
+#15 34.20 Installing pg_search 2.3.6
+#15 34.21 Installing procore-sift 1.0.0
+#15 34.21 Installing seed_dump 3.3.1
+#15 34.22 Installing fast-mcp 1.5.0
+#15 34.24 Installing elastic-apm 4.6.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.26 Fetching actionpack 7.1.5.2
+#15 34.27 Fetching kaminari-actionview 1.2.2
+#15 34.27 Fetching jbuilder 2.11.5
+#15 34.28 Fetching fcm 1.0.8
+#15 34.29 Installing kaminari-actionview 1.2.2
+#15 34.30 Installing jbuilder 2.11.5
+#15 34.31 Installing fcm 1.0.8
+#15 34.32 Installing actionpack 7.1.5.2
+#15 34.34 Fetching google-apis-core 0.15.1
+#15 34.36 Installing google-apis-core 0.15.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.37 Fetching omniauth-google-oauth2 1.1.3
+#15 34.39 Installing omniauth-google-oauth2 1.1.3
+#15 34.40 Fetching ai-agents 0.12.0
+#15 34.46 Fetching database_cleaner 2.0.2
+#15 34.47 Fetching kaminari 1.2.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.48 Installing database_cleaner 2.0.2
+#15 34.49 Installing kaminari 1.2.2
+#15 34.50 Installing ai-agents 0.12.0
+#15 34.54 Fetching google-apis-iamcredentials_v1 0.22.0
+#15 34.56 Installing google-apis-iamcredentials_v1 0.22.0
+#15 34.56 Fetching google-apis-storage_v1 0.47.0
+#15 34.58 Installing google-apis-storage_v1 0.47.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.60 Fetching actioncable 7.1.5.2
+#15 34.60 Fetching activestorage 7.1.5.2
+#15 34.60 Fetching actionmailer 7.1.5.2
+#15 34.61 Fetching railties 7.1.5.2
+#15 34.62 Fetching sprockets-rails 3.4.2
+#15 34.62 Installing actioncable 7.1.5.2
+#15 34.63 Installing activestorage 7.1.5.2
+#15 34.65 Installing actionmailer 7.1.5.2
+#15 34.66 Installing sprockets-rails 3.4.2
+#15 34.68 Installing railties 7.1.5.2
+#15 34.71 Fetching omniauth-rails_csrf_protection 1.0.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.73 Installing omniauth-rails_csrf_protection 1.0.2
+#15 34.75 Fetching actionmailbox 7.1.5.2
+#15 34.75 Fetching actiontext 7.1.5.2
+#15 34.77 Installing actionmailbox 7.1.5.2
+#15 34.78 Installing actiontext 7.1.5.2
+#15 34.82 Fetching aws-actionmailbox-ses 0.1.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.84 Installing aws-actionmailbox-ses 0.1.0
+#15 34.89 Fetching jquery-rails 4.6.0
+#15 34.89 Fetching rails 7.1.5.2
+#15 34.89 Fetching responders 3.1.1
+#15 34.89 Fetching dotenv-rails 3.1.2
+#15 34.89 Fetching factory_bot_rails 6.4.3
+#15 34.92 Installing rails 7.1.5.2
+#15 34.92 Installing responders 3.1.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 34.93 Installing dotenv-rails 3.1.2
+#15 34.94 Fetching judoscale-rails 1.8.2
+#15 34.94 Fetching lograge 0.14.0
+#15 34.95 Installing factory_bot_rails 6.4.3
+#15 34.95 Fetching meta_request 0.8.5
+#15 34.96 Installing judoscale-rails 1.8.2
+#15 34.97 Installing jquery-rails 4.6.0
+#15 34.97 Installing lograge 0.14.0
+#15 34.97 Installing meta_request 0.8.5
+#15 34.99 Fetching rails-i18n 7.0.10
+#15 34.99 Fetching rspec-rails 7.0.1
+#15 35.00 Fetching sentry-rails 5.19.0
+#15 35.00 Fetching vite_rails 3.10.0
+#15 35.01 Fetching web-console 4.2.1
+#15 35.02 Installing rails-i18n 7.0.10
+#15 35.03 Installing rspec-rails 7.0.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 35.03 Installing sentry-rails 5.19.0
+#15 35.04 Installing vite_rails 3.10.0
+#15 35.05 Installing web-console 4.2.1
+#15 35.14 Fetching tidewave 0.2.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 35.16 Installing tidewave 0.2.0
+#15 35.17 Fetching devise 4.9.4
+#15 35.21 Installing devise 4.9.4
+#15 35.30 Fetching devise-two-factor 6.1.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 35.30 Fetching devise_token_auth 1.2.5
+#15 35.32 Installing devise-two-factor 6.1.0
+#15 35.34 Installing devise_token_auth 1.2.5
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 37.91 Fetching googleapis-common-protos-types 1.20.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 37.95 Installing googleapis-common-protos-types 1.20.0
+#15 37.97 Fetching grpc 1.72.0 (x86_64-linux)
+#15 37.97 Fetching opentelemetry-exporter-otlp 0.31.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 38.35 Installing opentelemetry-exporter-otlp 0.31.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 38.85 Installing grpc 1.72.0 (x86_64-linux)
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 38.85 Fetching google-cloud-storage 1.52.0
+#15 38.87 Installing google-cloud-storage 1.52.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 39.38 Fetching googleapis-common-protos 1.6.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 39.39 Installing googleapis-common-protos 1.6.0
+#15 39.40 Fetching gapic-common 0.20.0
+#15 39.41 Installing gapic-common 0.20.0
+#15 39.43 Fetching google-cloud-location 0.6.0
+#15 39.43 Fetching google-cloud-translate-v3 0.10.0
+#15 39.44 Installing google-cloud-location 0.6.0
+#15 39.45 Installing google-cloud-translate-v3 0.10.0
+#15 39.46 Fetching google-cloud-dialogflow-v2 0.31.0
+#15 39.49 Installing google-cloud-dialogflow-v2 0.31.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 44.88 Fetching rubocop-ast 1.44.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 44.91 Installing rubocop-ast 1.44.1
+#15 44.94 Fetching rubocop 1.75.6
+#15 45.01 Installing rubocop 1.75.6
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 45.20 Fetching rubocop-factory_bot 2.27.1
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 45.21 Fetching rubocop-performance 1.25.0
+#15 45.21 Fetching rubocop-rails 2.32.0
+#15 45.21 Fetching rubocop-rspec 3.6.0
+#15 45.22 Installing rubocop-factory_bot 2.27.1
+#15 45.23 Installing rubocop-performance 1.25.0
+#15 45.25 Installing rubocop-rails 2.32.0
+#15 45.26 Installing rubocop-rspec 3.6.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 55.13 Fetching shopify_api 14.8.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 55.13 Fetching web-push 3.0.1
+#15 55.19 Installing web-push 3.0.1
+#15 55.22 Installing shopify_api 14.8.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 73.65 Fetching sassc-rails 2.1.2
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 73.67 Installing sassc-rails 2.1.2
+#15 73.69 Fetching administrate 0.20.1
+#15 73.70 Installing administrate 0.20.1
+#15 73.74 Fetching administrate-field-active_storage 1.0.3
+#15 73.74 Fetching administrate-field-belongs_to_search 0.9.0
+#15 73.76 Installing administrate-field-belongs_to_search 0.9.0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 73.77 Installing administrate-field-active_storage 1.0.3
+#15 73.82 Bundle complete! 151 Gemfile dependencies, 376 gems now installed.
+#15 73.82 Use `bundle info [gemname]` to see where a bundled gem is installed.
+#15 73.82 Post-install message from ruby_llm:
+#15 73.82 RubyLLM 1.15 upgrade note:
+#15 73.82 
+#15 73.82   Token accounting is now normalized across providers. `input_tokens` means
+#15 73.82   standard input tokens; prompt cache reads and writes are exposed separately
+#15 73.82   as `cache_read_tokens` and `cache_write_tokens`.
+#15 73.82 
+#15 73.82   Need request-side input activity?
+#15 73.82     input_tokens + cache_read_tokens + cache_write_tokens
+#15 73.82 
+#15 73.82   New cost helpers:
+#15 73.82     response.cost.total
+#15 73.82     chat.cost.total
+#15 73.82     agent.cost.total
+#15 73.82 
+#15 73.82   Upgrading from RubyLLM < 1.15? Read the full upgrade guide:
+#15 73.82     https://rubyllm.com/upgrading/
+#15 73.83 Post-install message from devise:
+#15 73.83 
+#15 73.83 [DEVISE] Please review the [changelog] and [upgrade guide] for more info on Hotwire / Turbo integration.
+#15 73.83 
+#15 73.83   [changelog] https://github.com/heartcombo/devise/blob/main/CHANGELOG.md
+#15 73.83   [upgrade guide] https://github.com/heartcombo/devise/wiki/How-To:-Upgrade-to-Devise-4.9.0-%5BHotwire-Turbo-integration%5D
+#15 73.83   Post-install message from httparty:
+#15 73.83 When you HTTParty, you must party hard!
+#15 73.83 Post-install message from sass:
+#15 73.83 
+#15 73.83 Ruby Sass has reached end-of-life and should no longer be used.
+#15 73.83 
+#15 73.83 * If you use Sass as a command-line tool, we recommend using Dart Sass, the new
+#15 73.83   primary implementation: https://sass-lang.com/install
+#15 73.83 
+#15 73.83 * If you use Sass as a plug-in for a Ruby web framework, we recommend using the
+#15 73.83   sassc gem: https://github.com/sass/sassc-ruby#readme
+#15 73.83 
+#15 73.83 * For more details, please refer to the Sass blog:
+#15 73.83   https://sass-lang.com/blog/posts/7828841
+#15 73.83 
+#15 73.83 Post-install message from vite_ruby:
+#15 73.83 Thanks for installing Vite Ruby!
+#15 73.83 
+#15 73.83 If you upgraded the gem manually, please run:
+#15 73.83 	bundle exec vite upgrade
+#15 73.83 3 installed gems you directly depend on are looking for funding.
+#15 73.83   Run `bundle fund` for details
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #15 DONE 74.5s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #16 [12/24] RUN  bundle exec bootsnap precompile --gemfile
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #16 DONE 4.7s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #17 [13/24] COPY . /app/.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #17 DONE 2.2s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #18 [14/24] RUN  npm install -g corepack@0.24.1 && corepack enable
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #18 1.344 
+#18 1.344 changed 1 package in 967ms
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #18 1.346 npm notice
+#18 1.346 npm notice New major version of npm available! 10.9.3 -> 12.0.1
+#18 1.346 npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.1
+#18 1.346 npm notice To update run:<REDACTED>@12.0.1
+#18 1.346 npm notice
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #18 DONE 1.7s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 [15/24] RUN  pnpm i --frozen-lockfile
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 1.283  WARN  Unsupported engine: wanted: {"node":"24.x"} (current: {"node":"v22.19.0","pnpm":"10.2.0"})
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 1.332 Lockfile is up to date, resolution step is skipped
+#19 1.386 Progress: resolved 1, reused 0, downloaded 0, added 0
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 1.501 Packages: +1061
+#19 1.501 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 1.657 
+#19 1.657    ╭───────────────────────────────────────────────────────────────────╮
+#19 1.657    │                                                                   │
+#19 1.657    │                Update available! 10.2.0 → 11.14.0.                │
+#19 1.657    │   Changelog: https://github.com/pnpm/pnpm/releases/tag/v11.14.0   │
+#19 1.657    │         Run "corepack install -g pnpm@11.14.0" to update.         │
+#19 1.657    │                                                                   │
+#19 1.657    ╰───────────────────────────────────────────────────────────────────╯
+#19 1.657
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 2.386 Progress: resolved 1061, reused 0, downloaded 82, added 81
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 3.388 Progress: resolved 1061, reused 0, downloaded 284, added 284
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 4.387 Progress: resolved 1061, reused 0, downloaded 553, added 551
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 5.387 Progress: resolved 1061, reused 0, downloaded 892, added 891
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 6.388 Progress: resolved 1061, reused 0, downloaded 1059, added 1060
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 6.575 Progress: resolved 1061, reused 0, downloaded 1060, added 1061, done
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 7.159 
+#19 7.159 dependencies:
+#19 7.159 + @amplitude/analytics-browser 2.33.1
+#19 7.159 + @breezystack/lamejs 1.2.7
+#19 7.159 + @chatwoot/ninja-keys 1.2.3
+#19 7.159 + @chatwoot/prosemirror-schema 1.3.22
+#19 7.159 + @chatwoot/utils 0.0.55
+#19 7.159 + @formkit/core 1.7.2
+#19 7.159 + @formkit/vue 1.7.2
+#19 7.159 + @hcaptcha/vue3-hcaptcha 1.3.0
+#19 7.159 + @highlightjs/vue-plugin 2.1.0
+#19 7.159 + @hotwired/turbo-rails 8.0.13
+#19 7.159 + @iconify-json/fluent 1.2.36
+#19 7.159 + @iconify-json/material-symbols 1.2.10
+#19 7.159 + @lk77/vue3-color 3.0.6
+#19 7.159 + @radix-ui/colors 3.0.0
+#19 7.159 + @rails/actioncable 6.1.3
+#19 7.159 + @rails/ujs 7.1.400
+#19 7.159 + @scmmishra/pico-search 0.6.0
+#19 7.159 + @sentry/vue 8.55.0
+#19 7.159 + @sindresorhus/slugify 2.2.1
+#19 7.159 + @tailwindcss/typography 0.5.19
+#19 7.159 + @tanstack/vue-table 8.20.5
+#19 7.159 + @twilio/voice-sdk 2.17.0
+#19 7.159 + @vitejs/plugin-vue 5.2.4
+#19 7.159 + @vue/compiler-sfc 3.5.8
+#19 7.159 + @vuelidate/core 2.0.3
+#19 7.159 + @vuelidate/validators 2.0.4
+#19 7.159 + @vueuse/components 12.0.0
+#19 7.159 + @vueuse/core 12.0.0
+#19 7.159 + activestorage 5.2.8
+#19 7.159 + axios 1.15.0
+#19 7.159 + camelcase-keys 9.1.3
+#19 7.159 + chart.js 4.4.4
+#19 7.159 + color2k 2.0.3
+#19 7.159 + company-email-validator 1.1.0
+#19 7.159 + core-js 3.38.1
+#19 7.159 + countries-and-timezones 3.6.0
+#19 7.159 + date-fns 2.21.1
+#19 7.159 + date-fns-tz 1.3.8
+#19 7.159 + dompurify 3.4.11
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 7.159 + flag-icons 7.2.3
+#19 7.159 + floating-vue 5.2.2
+#19 7.159 + highlight.js 11.10.0
+#19 7.159 + html-to-image 1.11.13
+#19 7.159 + html2canvas 1.4.1
+#19 7.159 + idb 8.0.0
+#19 7.159 + js-cookie 3.0.5
+#19 7.159 + json-logic-js 2.0.5
+#19 7.159 + lettersanitizer 1.0.6
+#19 7.159 + libphonenumber-js 1.11.9
+#19 7.159 + markdown-it 14.1.1
+#19 7.159 + markdown-it-link-attributes 4.0.1
+#19 7.159 + md5 2.3.0
+#19 7.159 + mitt 3.0.1
+#19 7.159 + opus-recorder 8.0.5
+#19 7.159 + pinia 3.0.4
+#19 7.159 + prosemirror-commands 1.7.1
+#19 7.159 + prosemirror-inputrules 1.4.0
+#19 7.159 + prosemirror-schema-list 1.5.1
+#19 7.159 + qrcode 1.5.4
+#19 7.159 + semver 7.6.3
+#19 7.159 + snakecase-keys 8.0.1
+#19 7.159 + timezone-phone-codes 0.0.2
+#19 7.159 + tinykeys 3.0.0
+#19 7.159 + urlpattern-polyfill 10.0.0
+#19 7.159 + video.js 7.21.1
+#19 7.159 + videojs-record 4.5.0
+#19 7.159 + videojs-wavesurfer 3.8.0
+#19 7.159 + virtua 0.48.6
+#19 7.159 + vue 3.5.12
+#19 7.159 + vue-chartjs 5.3.1
+#19 7.159 + vue-datepicker-next 1.0.3
+#19 7.159 + vue-dompurify-html 5.3.0
+#19 7.159 + vue-i18n 9.14.5
+#19 7.159 + vue-letter 0.2.1
+#19 7.159 + vue-router 4.4.5
+#19 7.159 + vue-upload-component 3.1.17
+#19 7.159 + vue3-click-away 1.2.4
+#19 7.159 + vuedraggable 4.1.0
+#19 7.159 + vuex 4.1.0
+#19 7.159 + vuex-router-sync 6.0.0-rc.1
+#19 7.159 + wavesurfer.js 7.8.6
+#19 7.159 
+#19 7.159 devDependencies:
+#19 7.159 + @egoist/tailwindcss-icons 1.9.2
+#19 7.159 + @histoire/plugin-vue 0.17.15
+#19 7.159 + @iconify-json/logos 1.2.10
+#19 7.159 + @iconify-json/lucide 1.2.82
+#19 7.159 + @iconify-json/ph 1.2.2
+#19 7.159 + @iconify-json/ri 1.2.6
+#19 7.159 + @iconify-json/teenyicons 1.2.2
+#19 7.159 + @intlify/eslint-plugin-vue-i18n 3.2.0
+#19 7.159 + @rollup/plugin-yaml 4.1.2
+#19 7.159 + @size-limit/file 8.2.6
+#19 7.159 + @vitest/coverage-v8 3.0.5
+#19 7.159 + @vue/test-utils 2.4.6
+#19 7.159 + autoprefixer 10.4.20
+#19 7.159 + eslint 8.57.0
+#19 7.159 + eslint-config-airbnb-base 15.0.0
+#19 7.159 + eslint-config-prettier 9.1.0
+#19 7.159 + eslint-interactive 11.1.0
+#19 7.159 + eslint-plugin-html 7.1.0
+#19 7.159 + eslint-plugin-import 2.30.0
+#19 7.159 + eslint-plugin-prettier 5.2.1
+#19 7.159 + eslint-plugin-vitest-globals 1.5.0
+#19 7.159 + eslint-plugin-vue 9.28.0
+#19 7.159 + fake-indexeddb 6.0.0
+#19 7.159 + histoire 0.17.15
+#19 7.159 + husky 7.0.4
+#19 7.159 + jsdom 27.2.0
+#19 7.159 + lint-staged 16.2.7
+#19 7.159 + postcss 8.4.47
+#19 7.159 + postcss-preset-env 8.5.1
+#19 7.159 + prettier 3.3.3
+#19 7.159 + prosemirror-model 1.22.3
+#19 7.159 + size-limit 8.2.6
+#19 7.159 + tailwindcss 3.4.19
+#19 7.159 + vite 6.4.2
+#19 7.159 + vite-plugin-ruby 5.2.1
+#19 7.159 + vitest 3.0.5
+#19 7.159 
+#19 7.159 Ignored build scripts: core-js, esbuild, vue-demi. Run "pnpm approve-builds" to pick which dependencies should be allowed to run scripts.
+#19 7.159
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 7.188 
+#19 7.188 > @chatwoot/chatwoot@4.15.1 prepare /app
+#19 7.188 > husky install || true
+#19 7.188 
+#19 7.241 fatal: not a git repository (or any of the parent directories): .git
+#19 7.246 Done in 6.3s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #19 DONE 8.5s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #20 [16/24] COPY . /app/.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #20 DONE 15.4s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 [17/24] RUN  bundle exec rake assets:precompile
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 3.833 /usr/local/rvm/gems/3.4.4/gems/reline-0.3.6/lib/reline/terminfo.rb:2: warning: /root/.rbenv/versions/3.4.4/lib/ruby/3.4.0/fiddle.rb was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+#21 3.833 You can add fiddle to your Gemfile or gemspec to silence this warning.
+#21 3.833 Also please contact the author of reline-0.3.6 to request adding fiddle into its gemspec.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 4.442 W, [2026-07-18T18:54:55.887177 #1]  WARN -- : 
+#21 4.442 !!! RubyLLM's legacy acts_as API is deprecated and will be removed in RubyLLM 2.0.0. Please consult the migration guide at https://rubyllm.com/upgrading-to-1-7/
+#21 4.442
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 5.185 I, [2026-07-18T18:54:56.631263 #1]  INFO -- : [rake ip_lookup:setup] IP_LOOKUP_API_KEY empty. Skipping geoip database setup
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 5.962  WARN  Unsupported engine: wanted: {"node":"24.x"} (current: {"node":"v22.19.0","pnpm":"10.2.0"})
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 6.050 Lockfile is up to date, resolution step is skipped
+#21 6.146 Already up to date
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 8.582
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 8.599 
+#21 8.599 > @chatwoot/chatwoot@4.15.1 prepare /app
+#21 8.599 > husky install || true
+#21 8.599 
+#21 8.632 fatal: not a git repository (or any of the parent directories): .git
+#21 8.644 Done in 2.9s
+#21 8.719 -------------- Bulding SDK for Production --------------
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.048  WARN  Unsupported engine: wanted: {"node":"24.x"} (current: {"node":"v22.19.0","pnpm":"10.2.0"})
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.050 
+#21 9.050 > @chatwoot/chatwoot@4.15.1 build:sdk /app
+#21 9.050 > vite build --config vite.lib.config.ts
+#21 9.050
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.230 vite v6.4.2 building for production...
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.262 transforming...
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.502 Browserslist: caniuse-lite is outdated. Please run:
+#21 9.502   npx update-browserslist-db@latest
+#21 9.502   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.701 ✓ 31 modules transformed.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.701 
+#21 9.701 (!) The public directory feature may not work correctly. outDir /app/public/packs and publicDir /app/public are not separate folders.
+#21 9.701 
+#21 9.805 rendering chunks...
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 9.808 computing gzip size...
+#21 9.811 public/packs/js/sdk.js  28.94 kB │ gzip: 9.56 kB
+#21 9.811 ✓ built in 559ms
+#21 9.929 -------------- Bulding App for Production --------------
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 10.42 I, [2026-07-18T18:55:01.862024 #1]  INFO -- : Writing /app/public/assets/manifest-2f0ac84ec540eb753a59078be1e78cb9bb00e12a9a8d6d826039a818a0008610.js
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 10.42 I, [2026-07-18T18:55:01.862253 #1]  INFO -- : Writing /app/public/assets/manifest-2f0ac84ec540eb753a59078be1e78cb9bb00e12a9a8d6d826039a818a0008610.js.gz
+#21 10.42 I, [2026-07-18T18:55:01.862448 #1]  INFO -- : Writing /app/public/assets/administrate/application-063079e78401f7204485117315ae46404303200752c6b17ddaeb38ef4e9f64c9.css
+#21 10.42 I, [2026-07-18T18:55:01.862598 #1]  INFO -- : Writing /app/public/assets/administrate/application-063079e78401f7204485117315ae46404303200752c6b17ddaeb38ef4e9f64c9.css.gz
+#21 10.43 I, [2026-07-18T18:55:01.880367 #1]  INFO -- : Writing /app/public/assets/administrate/application-0ca1ebe5baf40d486024c2af43f59c99db8ee966ae8440eaa75b247d725f91f1.js
+#21 10.43 I, [2026-07-18T18:55:01.880640 #1]  INFO -- : Writing /app/public/assets/administrate/application-0ca1ebe5baf40d486024c2af43f59c99db8ee966ae8440eaa75b247d725f91f1.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.881096 #1]  INFO -- : Writing /app/public/assets/administrate-field-active_storage/application-491e0febefaa4b7923c60e77838dadb71e679fcc07232cd97198fb364d300152.css
+#21 10.44 I, [2026-07-18T18:55:01.881355 #1]  INFO -- : Writing /app/public/assets/administrate-field-active_storage/application-491e0febefaa4b7923c60e77838dadb71e679fcc07232cd97198fb364d300152.css.gz
+#21 10.44 I, [2026-07-18T18:55:01.881534 #1]  INFO -- : Writing /app/public/assets/secretField-18ee01c6525855cf76aaca98ae1141bb825839f86bb702d5524f88c0996a26b2.js
+#21 10.44 I, [2026-07-18T18:55:01.882004 #1]  INFO -- : Writing /app/public/assets/secretField-18ee01c6525855cf76aaca98ae1141bb825839f86bb702d5524f88c0996a26b2.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.882221 #1]  INFO -- : Writing /app/public/assets/actiontext-78de0ebeae470799f9ec25fd0e20ae2d931df88c2ff9315918d1054a2fca2596.js
+#21 10.44 I, [2026-07-18T18:55:01.882425 #1]  INFO -- : Writing /app/public/assets/actiontext-78de0ebeae470799f9ec25fd0e20ae2d931df88c2ff9315918d1054a2fca2596.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.882690 #1]  INFO -- : Writing /app/public/assets/actiontext.esm-328ef022563f73c1b9b45ace742bd21330da0f6bd6c1c96d352d52fc8b8857e5.js
+#21 10.44 I, [2026-07-18T18:55:01.883215 #1]  INFO -- : Writing /app/public/assets/actiontext.esm-328ef022563f73c1b9b45ace742bd21330da0f6bd6c1c96d352d52fc8b8857e5.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.883445 #1]  INFO -- : Writing /app/public/assets/trix-b6d103912a6c8078fed14e45716425fb78de5abfbe7b626cd5d9b25b35265066.js
+#21 10.44 I, [2026-07-18T18:55:01.883686 #1]  INFO -- : Writing /app/public/assets/trix-b6d103912a6c8078fed14e45716425fb78de5abfbe7b626cd5d9b25b35265066.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.883911 #1]  INFO -- : Writing /app/public/assets/trix-fac9fbf27cd0745d3679d5bcb2f03808303584fba37b06fde11061331daac7a6.css
+#21 10.44 I, [2026-07-18T18:55:01.884205 #1]  INFO -- : Writing /app/public/assets/trix-fac9fbf27cd0745d3679d5bcb2f03808303584fba37b06fde11061331daac7a6.css.gz
+#21 10.44 I, [2026-07-18T18:55:01.884484 #1]  INFO -- : Writing /app/public/assets/administrate/application-0ca1ebe5baf40d486024c2af43f59c99db8ee966ae8440eaa75b247d725f91f1.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.885941 #1]  INFO -- : Writing /app/public/assets/belongs_to_search-25faa07e8d60e491e6f1218e5307b9e70ea1bb0a51e4a724a37e797cea81e9da.js
+#21 10.44 I, [2026-07-18T18:55:01.886376 #1]  INFO -- : Writing /app/public/assets/belongs_to_search-25faa07e8d60e491e6f1218e5307b9e70ea1bb0a51e4a724a37e797cea81e9da.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.887126 #1]  INFO -- : Writing /app/public/assets/activestorage-503a4fe23aabfbcb752dad255f01835904e6961d5f20d1de13987a691c27d9cd.js
+#21 10.44 I, [2026-07-18T18:55:01.887448 #1]  INFO -- : Writing /app/public/assets/activestorage-503a4fe23aabfbcb752dad255f01835904e6961d5f20d1de13987a691c27d9cd.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.887787 #1]  INFO -- : Writing /app/public/assets/activestorage.esm-b3f7f0a5ef90530b509c5e681c4b3ef5d5046851e5b70d57fdb45e32b039c883.js
+#21 10.44 I, [2026-07-18T18:55:01.887989 #1]  INFO -- : Writing /app/public/assets/activestorage.esm-b3f7f0a5ef90530b509c5e681c4b3ef5d5046851e5b70d57fdb45e32b039c883.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.888234 #1]  INFO -- : Writing /app/public/assets/actioncable-1c7f008c6deb7b55c6878be38700ff6bf56b75444a086fa1f46e3b781365a3ea.js
+#21 10.44 I, [2026-07-18T18:55:01.888528 #1]  INFO -- : Writing /app/public/assets/actioncable-1c7f008c6deb7b55c6878be38700ff6bf56b75444a086fa1f46e3b781365a3ea.js.gz
+#21 10.44 I, [2026-07-18T18:55:01.888765 #1]  INFO -- : Writing /app/public/assets/actioncable.esm-06609b0ecaffe2ab952021b9c8df8b6c68f65fc23bee728fc678a2605e1ce132.js
+#21 10.44 I, [2026-07-18T18:55:01.889057 #1]  INFO -- : Writing /app/public/assets/actioncable.esm-06609b0ecaffe2ab952021b9c8df8b6c68f65fc23bee728fc678a2605e1ce132.js.gz
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 10.82  WARN  Unsupported engine: wanted: {"node":"24.x"} (current: {"node":"v22.19.0","pnpm":"10.2.0"})
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 10.91 Lockfile is up to date, resolution step is skipped
+#21 11.00 Already up to date
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 11.33
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 11.35 
+#21 11.35 > @chatwoot/chatwoot@4.15.1 prepare /app
+#21 11.35 > husky install || true
+#21 11.35 
+#21 11.38 fatal: not a git repository (or any of the parent directories): .git
+#21 11.39 Done in 809ms
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 11.79 Building with Vite ⚡️
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 12.32 vite v6.4.2 building for production...
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 12.38 transforming...
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 57.47 ✓ 4726 modules transformed.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 60.62 rendering chunks...
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 66.11 computing gzip size...
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 67.48 ../../public/vite/.vite/manifest-assets.json                          0.00 kB │ gzip:     0.02 kB
+#21 67.48 ../../public/vite/assets/pf-CEX9Vx76.svg                              4.11 kB │ gzip:     1.75 kB
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 67.48 ../../public/vite/assets/pf-CMTHIumB.svg                              4.15 kB │ gzip:     1.74 kB
+#21 67.48 ../../public/vite/assets/sz-DpZ3V1AK.svg                              4.75 kB │ gzip:     1.95 kB
+#21 67.48 ../../public/vite/assets/sz-BC3w3Gmj.svg                              4.80 kB │ gzip:     1.97 kB
+#21 67.48 ../../public/vite/assets/gu-wFhsTC1Y.svg                              4.91 kB │ gzip:     1.94 kB
+#21 67.48 ../../public/vite/assets/gq-OBiOttRB.svg                              5.07 kB │ gzip:     2.06 kB
+#21 67.48 ../../public/vite/assets/gu-Bkjkorus.svg                              5.10 kB │ gzip:     2.03 kB
+#21 67.48 ../../public/vite/assets/gq-BvOxIUGP.svg                              5.16 kB │ gzip:     2.18 kB
+#21 67.48 ../../public/vite/assets/zm-CNg0kgkw.svg                              5.41 kB │ gzip:     2.32 kB
+#21 67.48 ../../public/vite/assets/zm-BmHUGSoa.svg                              5.51 kB │ gzip:     2.32 kB
+#21 67.48 ../../public/vite/assets/nf--j2oelto.svg                              5.56 kB │ gzip:     2.47 kB
+#21 67.48 ../../public/vite/assets/ki-COZ8g898.svg                              5.64 kB │ gzip:     1.68 kB
+#21 67.48 ../../public/vite/assets/ki-CM44VBPm.svg                              5.81 kB │ gzip:     1.74 kB
+#21 67.48 ../../public/vite/assets/nf-COchEj81.svg                              5.81 kB │ gzip:     2.58 kB
+#21 67.48 ../../public/vite/assets/cy-VQFkW-qk.svg                              5.91 kB │ gzip:     2.55 kB
+#21 67.48 ../../public/vite/assets/cy-Bgo0XIP0.svg                              6.00 kB │ gzip:     2.60 kB
+#21 67.48 ../../public/vite/assets/ms-7tNehsjt.svg                              6.07 kB │ gzip:     2.65 kB
+#21 67.48 ../../public/vite/assets/ms-D--tLJBo.svg                              6.12 kB │ gzip:     2.61 kB
+#21 67.48 ../../public/vite/assets/no-chat-dark-BSWrQBd3.svg                    6.35 kB │ gzip:     2.46 kB
+#21 67.48 ../../public/vite/assets/zw-DGkTG73v.svg                              6.65 kB │ gzip:     2.64 kB
+#21 67.48 ../../public/vite/assets/zw-Ceqd3Xj3.svg                              6.67 kB │ gzip:     2.66 kB
+#21 67.48 ../../public/vite/assets/no-chat-okxWD-4P.svg                         6.68 kB │ gzip:     2.55 kB
+#21 67.48 ../../public/vite/assets/tc-CYGgqbY-.svg                              7.15 kB │ gzip:     3.07 kB
+#21 67.48 ../../public/vite/assets/tc-BB3tFO-G.svg                              7.15 kB │ gzip:     3.07 kB
+#21 67.48 ../../public/vite/assets/kh-V4Sa3vlt.svg                              7.28 kB │ gzip:     2.80 kB
+#21 67.48 ../../public/vite/assets/kh-CAffWc0R.svg                              7.28 kB │ gzip:     2.81 kB
+#21 67.48 ../../public/vite/assets/kz-DBjWpOlG.svg                              7.29 kB │ gzip:     3.02 kB
+#21 67.48 ../../public/vite/assets/kz-BBCbe9jj.svg                              7.29 kB │ gzip:     3.01 kB
+#21 67.48 ../../public/vite/assets/br-Yf30zEjB.svg                              7.68 kB │ gzip:     2.56 kB
+#21 67.48 ../../public/vite/assets/br-DaE4AJQY.svg                              8.10 kB │ gzip:     2.77 kB
+#21 67.48 ../../public/vite/assets/li-DgeenFRc.svg                              8.25 kB │ gzip:     3.29 kB
+#21 67.48 ../../public/vite/assets/li-y6TPS81M.svg                              8.27 kB │ gzip:     3.30 kB
+#21 67.48 ../../public/vite/assets/pt-BV5okG4O.svg                              8.32 kB │ gzip:     3.39 kB
+#21 67.48 ../../public/vite/assets/vi-1FTBesw2.svg                              8.62 kB │ gzip:     3.66 kB
+#21 67.48 ../../public/vite/assets/xk-B6uU6dIH.svg                              8.63 kB │ gzip:     3.27 kB
+#21 67.48 ../../public/vite/assets/pt-BLLm3V0o.svg                              8.67 kB │ gzip:     3.40 kB
+#21 67.48 ../../public/vite/assets/vi-DatfOFqY.svg                              8.68 kB │ gzip:     3.69 kB
+#21 67.48 ../../public/vite/assets/aw-W0PWLK5p.svg                              9.00 kB │ gzip:     1.68 kB
+#21 67.48 ../../public/vite/assets/gb-wls-lLp_JivI.svg                          9.07 kB │ gzip:     4.10 kB
+#21 67.48 ../../public/vite/assets/gb-wls-C4LdH8Nd.svg                          9.18 kB │ gzip:     4.22 kB
+#21 67.48 ../../public/vite/assets/xk-F5dDvX79.svg                              9.31 kB │ gzip:     3.52 kB
+#21 67.48 ../../public/vite/assets/eg-BIzzVp3n.svg                              9.85 kB │ gzip:     3.91 kB
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 67.48 ../../public/vite/assets/eg-C1MYAOXe.svg                              9.87 kB │ gzip:     3.92 kB
+#21 67.48 ../../public/vite/assets/im-BAoxVCMv.svg                              9.90 kB │ gzip:     3.82 kB
+#21 67.48 ../../public/vite/assets/sa-eH5F7cXy.svg                             10.17 kB │ gzip:     4.33 kB
+#21 67.48 ../../public/vite/assets/im-deD7ny0b.svg                             10.22 kB │ gzip:     4.07 kB
+#21 67.48 ../../public/vite/assets/sa-DLf2NaXn.svg                             10.24 kB │ gzip:     4.37 kB
+#21 67.48 ../../public/vite/assets/aw-CLCX8uk5.svg                             10.36 kB │ gzip:     1.82 kB
+#21 67.48 ../../public/vite/assets/vg-qlt33Cv3.svg                             10.39 kB │ gzip:     4.32 kB
+#21 67.48 ../../public/vite/assets/vg-DKEU1GdO.svg                             10.41 kB │ gzip:     4.31 kB
+#21 67.48 ../../public/vite/assets/md-DArlF80d.svg                             11.20 kB │ gzip:     2.90 kB
+#21 67.48 ../../public/vite/assets/md-DRw6DF0o.svg                             11.31 kB │ gzip:     2.77 kB
+#21 67.48 ../../public/vite/assets/lk-B2IfFxoh.svg                             11.34 kB │ gzip:     4.67 kB
+#21 67.48 ../../public/vite/assets/lk-DIvkWByA.svg                             11.35 kB │ gzip:     4.68 kB
+#21 67.48 ../../public/vite/assets/sx-DzlMoqh2.svg                             12.95 kB │ gzip:     4.46 kB
+#21 67.48 ../../public/vite/assets/sx-4BiL6F_v.svg                             13.14 kB │ gzip:     4.66 kB
+#21 67.48 ../../public/vite/assets/mt-DeenPMqd.svg                             13.73 kB │ gzip:     5.74 kB
+#21 67.48 ../../public/vite/assets/pn-DEs-Vj71.svg                             13.84 kB │ gzip:     5.11 kB
+#21 67.48 ../../public/vite/assets/pn-vyD5VXw1.svg                             13.88 kB │ gzip:     5.15 kB
+#21 67.48 ../../public/vite/assets/eac-CZCl_pn7.svg                            14.22 kB │ gzip:     5.02 kB
+#21 67.48 ../../public/vite/assets/eac-D_uIzpYR.svg                            14.23 kB │ gzip:     5.02 kB
+#21 67.48 ../../public/vite/assets/bn-BDKbSv-u.svg                             14.32 kB │ gzip:     6.00 kB
+#21 67.48 ../../public/vite/assets/bn-UGyQANfK.svg                             14.46 kB │ gzip:     6.03 kB
+#21 67.48 ../../public/vite/assets/ht-DPCqX9cm.svg                             14.57 kB │ gzip:     5.17 kB
+#21 67.48 ../../public/vite/assets/mt-0OWB-5b3.svg                             14.64 kB │ gzip:     6.15 kB
+#21 67.48 ../../public/vite/assets/ht-HoSCtdNQ.svg                             14.70 kB │ gzip:     5.22 kB
+#21 67.48 ../../public/vite/assets/ir-CXFV1BFU.svg                             15.31 kB │ gzip:     2.30 kB
+#21 67.48 ../../public/vite/assets/ir-cCIgaNf6.svg                             15.40 kB │ gzip:     2.25 kB
+#21 67.48 ../../public/vite/assets/sm-DHRSzt4z.svg                             15.66 kB │ gzip:     5.43 kB
+#21 67.48 ../../public/vite/assets/sm-1NcqoN_z.svg                             15.77 kB │ gzip:     5.35 kB
+#21 67.48 ../../public/vite/assets/dm-BlhP-6zy.svg                             15.82 kB │ gzip:     3.13 kB
+#21 67.48 ../../public/vite/assets/dm-ClJ_IDld.svg                             16.31 kB │ gzip:     3.29 kB
+#21 67.48 ../../public/vite/assets/facebook_login-_skaVloV.png                 16.39 kB
+#21 67.48 ../../public/vite/assets/py-BfpB8kRi.svg                             17.19 kB │ gzip:     6.15 kB
+#21 67.48 ../../public/vite/assets/py-CRTEf2ay.svg                             17.36 kB │ gzip:     6.21 kB
+#21 67.48 ../../public/vite/assets/ni-CC3zFI7h.svg                             18.44 kB │ gzip:     5.81 kB
+#21 67.48 ../../public/vite/assets/ni-ChnV2lR-.svg                             18.49 kB │ gzip:     5.86 kB
+#21 67.48 ../../public/vite/assets/typing-DYm07fFx.gif                         19.30 kB
+#21 67.48 ../../public/vite/assets/un-0G1DCZ6c.svg                             20.05 kB │ gzip:     7.98 kB
+#21 67.48 ../../public/vite/assets/un-BQ1kEGox.svg                             20.29 kB │ gzip:     8.11 kB
+#21 67.48 ../../public/vite/assets/af-Cc32fsDB.svg                             20.92 kB │ gzip:     8.38 kB
+#21 67.48 ../../public/vite/assets/af-CI4E3ER1.svg                             21.06 kB │ gzip:     8.44 kB
+#21 67.48 ../../public/vite/assets/om-Ri__rIwP.svg                             22.61 kB │ gzip:     4.48 kB
+#21 67.48 ../../public/vite/assets/om-DnUPbroW.svg                             22.62 kB │ gzip:     4.48 kB
+#21 67.48 ../../public/vite/assets/bm-D2j4bkLD.svg                             22.73 kB │ gzip:     7.31 kB
+#21 67.48 ../../public/vite/assets/bm-BoWRAtUx.svg                             22.81 kB │ gzip:     7.32 kB
+#21 67.48 ../../public/vite/assets/io-BzKkDPkD.svg                             22.88 kB │ gzip:     4.19 kB
+#21 67.48 ../../public/vite/assets/dg-CPWO5scz.svg                             22.88 kB │ gzip:     4.19 kB
+#21 67.49 ../../public/vite/assets/io-Bkx8USW1.svg                             23.16 kB │ gzip:     4.22 kB
+#21 67.49 ../../public/vite/assets/dg-B55Nvqqm.svg                             23.16 kB │ gzip:     4.21 kB
+#21 67.49 ../../public/vite/assets/mp-xI88Vk3c.svg                             23.33 kB │ gzip:     7.28 kB
+#21 67.49 ../../public/vite/assets/mp-DOjKDFJv.svg                             23.58 kB │ gzip:     7.36 kB
+#21 67.49 ../../public/vite/assets/gb-nir-BOm9QMOa.svg                         23.59 kB │ gzip:     6.35 kB
+#21 67.49 ../../public/vite/assets/ky-D_l3blFP.svg                             23.99 kB │ gzip:     8.70 kB
+#21 67.49 ../../public/vite/assets/ky-BqProAqG.svg                             24.01 kB │ gzip:     8.68 kB
+#21 67.49 ../../public/vite/assets/bt-Cm0R6rAQ.svg                             24.91 kB │ gzip:    10.18 kB
+#21 67.49 ../../public/vite/assets/bt-Csq9bKsA.svg                             25.12 kB │ gzip:    10.28 kB
+#21 67.49 ../../public/vite/assets/gb-nir-BZUeOVwE.svg                         25.13 kB │ gzip:     5.87 kB
+#21 67.49 ../../public/vite/assets/fj-DLvzYbo8.svg                             25.69 kB │ gzip:     9.63 kB
+#21 67.49 ../../public/vite/assets/fj-CJDn3VQ8.svg                             25.79 kB │ gzip:     9.70 kB
+#21 67.49 ../../public/vite/assets/arab-DwNob5Qo.svg                           26.34 kB │ gzip:     9.35 kB
+#21 67.49 ../../public/vite/assets/arab-PzQTPYwO.svg                           26.46 kB │ gzip:     9.35 kB
+#21 67.49 ../../public/vite/assets/es-ga-BbFllROk.svg                          28.63 kB │ gzip:     6.41 kB
+#21 67.49 ../../public/vite/assets/es-ga-RI_ZudJJ.svg                          28.74 kB │ gzip:     6.41 kB
+#21 67.49 ../../public/vite/assets/ec-LNhQ9L4k.svg                             28.97 kB │ gzip:     6.98 kB
+#21 67.49 ../../public/vite/assets/va-BntFJQHU.svg                             29.40 kB │ gzip:     9.98 kB
+#21 67.49 ../../public/vite/assets/va-maDzWwNR.svg                             29.46 kB │ gzip:    10.00 kB
+#21 67.49 ../../public/vite/assets/ec-sTVr1A3S.svg                             29.55 kB │ gzip:     6.87 kB
+#21 67.49 ../../public/vite/assets/fk-Ck9cznm4.svg                             30.04 kB │ gzip:     9.62 kB
+#21 67.49 ../../public/vite/assets/fk-Be42QBCW.svg                             30.31 kB │ gzip:     9.44 kB
+#21 67.49 ../../public/vite/assets/sh-ta-DNDOtP8t.svg                          30.57 kB │ gzip:    11.47 kB
+#21 67.49 ../../public/vite/assets/sh-ta-clv2MsBt.svg                          30.83 kB │ gzip:    11.63 kB
+#21 67.49 ../../public/vite/assets/as-D2gsNMrP.svg                             32.25 kB │ gzip:    12.05 kB
+#21 67.49 ../../public/vite/assets/ad-CDtWnnSA.svg                             32.46 kB │ gzip:    11.71 kB
+#21 67.49 ../../public/vite/assets/as-_t1IQUdv.svg                             32.50 kB │ gzip:    12.15 kB
+#21 67.49 ../../public/vite/assets/gs-Di8hLP4g.svg                             32.53 kB │ gzip:    11.81 kB
+#21 67.49 ../../public/vite/assets/gs-PK6r6yhR.svg                             33.02 kB │ gzip:    11.53 kB
+#21 67.49 ../../public/vite/assets/ad-BOo-tPI4.svg                             33.68 kB │ gzip:    12.25 kB
+#21 67.49 ../../public/vite/assets/gt-CovS1bZs.svg                             35.09 kB │ gzip:    12.44 kB
+#21 67.49 ../../public/vite/assets/gt-Ufdm0MFv.svg                             35.09 kB │ gzip:    12.44 kB
+#21 67.49 ../../public/vite/assets/sh-hl-DWwv0HRi.svg                          38.31 kB │ gzip:    13.58 kB
+#21 67.49 ../../public/vite/assets/tm-CCv743R_.svg                             38.37 kB │ gzip:    12.08 kB
+#21 67.49 ../../public/vite/assets/tm-DYhdxDK7.svg                             38.50 kB │ gzip:    12.18 kB
+#21 67.49 ../../public/vite/assets/sh-hl-CnGxQM93.svg                          38.83 kB │ gzip:    13.87 kB
+#21 67.49 ../../public/vite/assets/hr-cWEworf7.svg                             41.18 kB │ gzip:    16.03 kB
+#21 67.49 ../../public/vite/assets/hr-C7VqhX5l.svg                             41.37 kB │ gzip:    16.18 kB
+#21 67.49 ../../public/vite/assets/je-PUw16g1j.svg                             46.07 kB │ gzip:    12.24 kB
+#21 67.49 ../../public/vite/assets/bz-YpwBidLU.svg                             46.67 kB │ gzip:    16.94 kB
+#21 67.49 ../../public/vite/assets/je-YWv5VSiQ.svg                             46.77 kB │ gzip:    12.57 kB
+#21 67.49 ../../public/vite/assets/bz-CqiVUvof.svg                             46.96 kB │ gzip:    16.96 kB
+#21 67.49 ../../public/vite/assets/do--tGVu9lQ.svg                             50.07 kB │ gzip:    16.90 kB
+#21 67.49 ../../public/vite/assets/do-DJGo0v5t.svg                             50.86 kB │ gzip:    17.14 kB
+#21 67.49 ../../public/vite/assets/me-B32CQdRA.svg                             62.57 kB │ gzip:    23.48 kB
+#21 67.49 ../../public/vite/assets/me-BUFcTh_w.svg                             63.55 kB │ gzip:    23.90 kB
+#21 67.49 ../../public/vite/.vite/manifest.json                                73.15 kB │ gzip:     7.47 kB
+#21 67.49 ../../public/vite/assets/sv-n55iiUxg.svg                             82.82 kB │ gzip:    23.76 kB
+#21 67.49 ../../public/vite/assets/sv-BGK8a8aZ.svg                             83.34 kB │ gzip:    23.94 kB
+#21 67.49 ../../public/vite/assets/mx-4c9y9ryX.svg                             88.84 kB │ gzip:    30.71 kB
+#21 67.49 ../../public/vite/assets/es-DL6RIaKh.svg                             91.01 kB │ gzip:    16.49 kB
+#21 67.49 ../../public/vite/assets/es-CR0ZfKpD.svg                             92.80 kB │ gzip:    17.31 kB
+#21 67.49 ../../public/vite/assets/mx-C7ivyfFO.svg                             93.45 kB │ gzip:    32.60 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-Regular-C0mmbI_t.woff2        105.57 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-Thin-DMFvXDOM.woff2           106.24 kB
+#21 67.49 ../../public/vite/assets/Inter-Thin-B4o5siQk.woff2                  106.62 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-Black-DM1fLmGj.woff2          107.22 kB
+#21 67.49 ../../public/vite/assets/Inter-Regular-B0QUfDW0.woff2               108.49 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-ExtraLight-CkrcZ2OC.woff2     109.66 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-Light-DB1R7qf0.woff2          109.86 kB
+#21 67.49 ../../public/vite/assets/Inter-Light-MWFfSqj5.woff2                 109.99 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-Medium-BRBaQVhl.woff2         110.01 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-Bold-CXJyJlfA.woff2           110.18 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-SemiBold-J6ePsRbj.woff2       110.23 kB
+#21 67.49 ../../public/vite/assets/InterDisplay-ExtraBold-DsWMgBJM.woff2      110.30 kB
+#21 67.49 ../../public/vite/assets/Inter-Bold-CytjP_7U.woff2                  111.04 kB
+#21 67.49 ../../public/vite/assets/Inter-Medium-B0NFony0.woff2                111.38 kB
+#21 67.49 ../../public/vite/assets/Inter-SemiBold-_JLwM7Yv.woff2              111.59 kB
+#21 67.49 ../../public/vite/assets/bo-BqtZbaiW.svg                            112.08 kB │ gzip:    27.38 kB
+#21 67.49 ../../public/vite/assets/bo-CP9m75_5.svg                            114.01 kB │ gzip:    27.80 kB
+#21 67.49 ../../public/vite/assets/Inter-Italic-B_ozvy2G.woff2                114.58 kB
+#21 67.49 ../../public/vite/assets/signup-bg-DFyqN1ma.jpg                     132.94 kB
+#21 67.49 ../../public/vite/assets/sh-ac-6pU0wZVL.svg                         153.41 kB │ gzip:    51.56 kB
+#21 67.49 ../../public/vite/assets/sh-ac-Ch9Jh9Lp.svg                         156.13 kB │ gzip:    52.25 kB
+#21 67.49 ../../public/vite/assets/rs-D2wyuxjv.svg                            184.05 kB │ gzip:    51.39 kB
+#21 67.49 ../../public/vite/assets/rs-Dv4N4BPN.svg                            184.17 kB │ gzip:    51.64 kB
+#21 67.49 ../../public/vite/assets/InterVariable-CWi-zmRD.woff2               345.59 kB
+#21 67.49 ../../public/vite/assets/InterVariable-Italic-d6KXgdvN.woff2        380.90 kB
+#21 67.49 ../../public/vite/assets/CategoryHeaderControls-DgEzqeZV.css          0.05 kB │ gzip:     0.07 kB
+#21 67.49 ../../public/vite/assets/commandbar-DaCNDihA.css                      0.41 kB │ gzip:     0.23 kB
+#21 67.49 ../../public/vite/assets/DashboardIcon-DIfX85bS.css                   1.24 kB │ gzip:     0.26 kB
+#21 67.49 ../../public/vite/assets/useBranding-DSFJg_40.css                     1.42 kB │ gzip:     0.49 kB
+#21 67.49 ../../public/vite/assets/PreChatForm-B-cW-ypb.css                     2.08 kB │ gzip:     0.45 kB
+#21 67.49 ../../public/vite/assets/UnreadMessageList-DEnPU2qp.css               3.36 kB │ gzip:     0.83 kB
+#21 67.49 ../../public/vite/assets/Messages-BHylWXtb.css                       14.36 kB │ gzip:     2.43 kB
+#21 67.49 ../../public/vite/assets/ArticleEditor-C80Go-8a.css                  15.37 kB │ gzip:     3.40 kB
+#21 67.49 ../../public/vite/assets/superadmin-BYL81DVR.css                  1,440.13 kB │ gzip:   134.86 kB
+#21 67.49 ../../public/vite/assets/v3app-CO81sELD.css                       1,442.28 kB │ gzip:   135.78 kB
+#21 67.49 ../../public/vite/assets/survey-OMkDLJsv.css                      1,444.03 kB │ gzip:   136.45 kB
+#21 67.49 ../../public/vite/assets/portal-BwQaAwGn.css                      1,444.55 kB │ gzip:   136.50 kB
+#21 67.49 ../../public/vite/assets/widget-I9AyMrv6.css                      1,460.09 kB │ gzip:   137.88 kB
+#21 67.49 ../../public/vite/assets/dashboard-V7iuVHOU.css                   3,125.46 kB │ gzip:   332.45 kB
+#21 67.49 ../../public/vite/assets/superadmin-DinP8Y44.js                       0.05 kB │ gzip:     0.07 kB │ map:     0.10 kB
+#21 67.49 ../../public/vite/assets/constants-lVAyZKq6.js                        0.16 kB │ gzip:     0.17 kB │ map:     0.58 kB
+#21 67.49 ../../public/vite/assets/HTMLSanitizer-cciupgGC.js                    0.17 kB │ gzip:     0.16 kB │ map:     0.79 kB
+#21 67.49 ../../public/vite/assets/ArticleViewer-JSzGmbok.js                    0.51 kB │ gzip:     0.37 kB │ map:     0.75 kB
+#21 67.49 ../../public/vite/assets/_commonjsHelpers-gnU0ypJ3.js                 0.67 kB │ gzip:     0.38 kB │ map:     0.11 kB
+#21 67.49 ../../public/vite/assets/index-DN3rM4CW.js                            0.89 kB │ gzip:     0.53 kB │ map:     5.33 kB
+#21 67.49 ../../public/vite/assets/Button-DVwbXRtU.js                           1.01 kB │ gzip:     0.59 kB │ map:     2.29 kB
+#21 67.49 ../../public/vite/assets/sharedFrameEvents-0qZ2yOho.js                1.08 kB │ gzip:     0.63 kB │ map:     5.17 kB
+#21 67.49 ../../public/vite/assets/UnreadMessages-B0ddbHYr.js                   1.11 kB │ gzip:     0.64 kB │ map:     1.16 kB
+#21 67.49 ../../public/vite/assets/StarRating-BuqNmyCS.js                       1.19 kB │ gzip:     0.70 kB │ map:     2.27 kB
+#21 67.49 ../../public/vite/assets/pickerHelper-aiN4qJky.js                     1.23 kB │ gzip:     0.78 kB │ map:     4.93 kB
+#21 67.49 ../../public/vite/assets/Campaigns-BN8TUg2i.js                        1.27 kB │ gzip:     0.71 kB │ map:     1.73 kB
+#21 67.49 ../../public/vite/assets/js.cookie-Cz0CWeBA.js                        1.46 kB │ gzip:     0.76 kB │ map:     5.89 kB
+#21 67.49 ../../public/vite/assets/Branding-CypowxtE.js                         1.55 kB │ gzip:     0.87 kB │ map:     3.52 kB
+#21 67.49 ../../public/vite/assets/articleDiffHelper-BFDM8eKl.js                2.10 kB │ gzip:     1.13 kB │ map:     9.86 kB
+#21 67.49 ../../public/vite/assets/IframeLoader-BlWtmyuP.js                     2.55 kB │ gzip:     0.93 kB │ map:     4.47 kB
+#21 67.49 ../../public/vite/assets/EmojiPicker-B7tgAov_.js                      2.66 kB │ gzip:     1.46 kB │ map:     4.32 kB
+#21 67.49 ../../public/vite/assets/PortalsArticlesNewPage-CAM2C5rP.js           2.69 kB │ gzip:     1.31 kB │ map:     6.13 kB
+#21 67.49 ../../public/vite/assets/PortalsArticlesEditPage-t8rmmDlD.js          3.07 kB │ gzip:     1.46 kB │ map:     8.33 kB
+#21 67.49 ../../public/vite/assets/UnreadMessageList-BbcDvRM5.js                4.14 kB │ gzip:     1.82 kB │ map:    11.39 kB
+#21 67.49 ../../public/vite/assets/useKeyboardNavigableList-DC6wKv7B.js         4.33 kB │ gzip:     2.13 kB │ map:    22.01 kB
+#21 67.49 ../../public/vite/assets/colorHelper-DkkSNPxc.js                      4.45 kB │ gzip:     2.49 kB │ map:    23.99 kB
+#21 67.49 ../../public/vite/assets/HelpCenterLayout-CoU3bPZR.js                 5.47 kB │ gzip:     2.32 kB │ map:    11.38 kB
+#21 67.49 ../../public/vite/assets/Home-BK4yzs5y.js                             5.79 kB │ gzip:     2.50 kB │ map:    13.91 kB
+#21 67.49 ../../public/vite/assets/Icon-tj0UD4iB.js                             5.94 kB │ gzip:     2.11 kB │ map:    18.07 kB
+#21 67.49 ../../public/vite/assets/superadmin_pages-B3UrQh8k.js                 7.03 kB │ gzip:     2.94 kB │ map:    11.81 kB
+#21 67.49 ../../public/vite/assets/index-lVzqX2jn.js                            9.36 kB │ gzip:     2.96 kB │ map:    31.78 kB
+#21 67.49 ../../public/vite/assets/module-BhD8uT5M.js                           9.58 kB │ gzip:     4.21 kB │ map:     3.64 kB
+#21 67.49 ../../public/vite/assets/FloatingCallWidget-BE1vanrc.js               9.72 kB │ gzip:     3.62 kB │ map:    22.59 kB
+#21 67.49 ../../public/vite/assets/PreChatForm-Cu73yI5a.js                     12.66 kB │ gzip:     4.94 kB │ map:    33.13 kB
+#21 67.49 ../../public/vite/assets/PortalsCategoriesIndexPage-DL_U5fTf.js      12.78 kB │ gzip:     4.88 kB │ map:    27.79 kB
+#21 67.49 ../../public/vite/assets/CategoryHeaderControls-CeN1C0U3.js          12.80 kB │ gzip:     4.42 kB │ map:    24.97 kB
+#21 67.49 ../../public/vite/assets/PortalsLocalesIndexPage-BxbBpt1t.js         13.45 kB │ gzip:     4.38 kB │ map:    30.41 kB
+#21 67.49 ../../public/vite/assets/index-DUiT124V.js                           16.53 kB │ gzip:     5.89 kB │ map:    76.38 kB
+#21 67.49 ../../public/vite/assets/EmojiIconPicker-DA7q5jKt.js                 23.64 kB │ gzip:     6.95 kB │ map:    43.88 kB
+#21 67.49 ../../public/vite/assets/sdk-CCw9CEvP.js                             26.10 kB │ gzip:     8.40 kB │ map:    74.44 kB
+#21 67.49 ../../public/vite/assets/PortalsSettingsIndexPage-CJUViU2C.js        30.85 kB │ gzip:     8.27 kB │ map:    64.56 kB
+#21 67.49 ../../public/vite/assets/PortalsArticlesIndexPage-DYt5djVr.js        31.04 kB │ gzip:    10.45 kB │ map:    83.59 kB
+#21 67.49 ../../public/vite/assets/survey-CX9T8OYA.js                          35.37 kB │ gzip:    13.99 kB │ map:    25.96 kB
+#21 67.49 ../../public/vite/assets/ArticleEditor-kK3_IgSC.js                   38.33 kB │ gzip:    13.00 kB │ map:    97.10 kB
+#21 67.49 ../../public/vite/assets/Messages-BSb-Bcdk.js                        49.11 kB │ gzip:    14.00 kB │ map:   117.38 kB
+#21 67.49 ../../public/vite/assets/helper-BVTgYTlr.js                          59.49 kB │ gzip:    16.28 kB │ map:   163.46 kB
+#21 67.49 ../../public/vite/assets/utils.esm-ubDNY-kb.js                       82.68 kB │ gzip:    25.52 kB │ map:   325.22 kB
+#21 67.49 ../../public/vite/assets/useBranding-BY1weMpl.js                     89.51 kB │ gzip:    29.67 kB │ map:   487.53 kB
+#21 67.49 ../../public/vite/assets/Validators-DPYCwWF8.js                      91.92 kB │ gzip:    31.76 kB │ map:   593.78 kB
+#21 67.49 ../../public/vite/assets/widget-D8v8SL1r.js                          96.52 kB │ gzip:    27.80 kB │ map:   389.98 kB
+#21 67.49 ../../public/vite/assets/commandbar-DWE-_i0O.js                     102.48 kB │ gzip:    30.65 kB │ map:   232.98 kB
+#21 67.49 ../../public/vite/assets/index-PWMb2bP5.js                          134.65 kB │ gzip:    32.67 kB │ map:    43.82 kB
+#21 67.49 ../../public/vite/assets/vue-dompurify-html-35iVgDeC.js             135.47 kB │ gzip:    57.17 kB │ map:   592.11 kB
+#21 67.49 ../../public/vite/assets/BarChart-DCO9gQXk.js                       146.87 kB │ gzip:    51.59 kB │ map:   777.04 kB
+#21 67.49 ../../public/vite/assets/portal-TvuSRwYx.js                         157.80 kB │ gzip:    46.95 kB │ map:   497.19 kB
+#21 67.49 ../../public/vite/assets/_plugin-vue_export-helper-BnO7OOXF.js      172.16 kB │ gzip:    64.65 kB │ map:   914.49 kB
+#21 67.49 ../../public/vite/assets/index-DgyHjbVM.js                          175.56 kB │ gzip:    48.76 kB │ map:   778.81 kB
+#21 67.49 ../../public/vite/assets/v3app-D3DxU_od.js                          270.62 kB │ gzip:    97.85 kB │ map:   435.93 kB
+#21 67.49 ../../public/vite/assets/index-CaPK6kSR.js                          326.65 kB │ gzip:    97.90 kB │ map: 1,184.23 kB
+#21 67.49 ../../public/vite/assets/typing-DOPlILEq.js                         396.22 kB │ gzip:   122.94 kB │ map: 1,757.73 kB
+#21 67.49 ../../public/vite/assets/dashboard-yJSAqBgA.js                    3,056.53 kB │ gzip:   853.41 kB │ map: 8,553.28 kB
+#21 67.49 ../../public/vite/assets/DashboardIcon-DTbhV7nk.js               12,690.56 kB │ gzip: 3,390.11 kB │ map: 3,025.19 kB
+#21 67.49 ✓ built in 55.16s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 67.96 Build with Vite complete: /app/public/vite
+#21 67.96 Browserslist: caniuse-lite is outdated. Please run:
+#21 67.96   npx update-browserslist-db@latest
+#21 67.96   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+#21 67.96 Browserslist:<REDACTED>@latest
+#21 67.96   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+#21 67.96 
+#21 67.96 (!) Some chunks are larger than 500 kB after minification. Consider:
+#21 67.96 - Using dynamic import() to code-split the application
+#21 67.96 - Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+#21 67.96 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+#21 67.96
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #21 DONE 68.5s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #22 [18/24] RUN  bundle exec bootsnap precompile app/ lib/
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #22 DONE 3.7s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #23 [19/24] COPY . /app/.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #23 DONE 14.1s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #24 [20/24] RUN  POSTGRES_STATEMENT_TIMEOUT=600s bundle exec rails db:chatwoot_prepare && echo $SOURCE_VERSION > .git_sha
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #24 2.809 /usr/local/rvm/gems/3.4.4/gems/reline-0.3.6/lib/reline/terminfo.rb:2: warning: /root/.rbenv/versions/3.4.4/lib/ruby/3.4.0/fiddle.rb was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+#24 2.809 You can add fiddle to your Gemfile or gemspec to silence this warning.
+#24 2.809 Also please contact the author of reline-0.3.6 to request adding fiddle into its gemspec.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #24 2.918 W, [2026-07-18T18:56:20.710517 #46]  WARN -- : 
+#24 2.918 !!! RubyLLM's legacy acts_as API is deprecated and will be removed in RubyLLM 2.0.0. Please consult the migration guide at https://rubyllm.com/upgrading-to-1-7/
+#24 2.918
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #24 3.127 I, [2026-07-18T18:56:20.919346 #46]  INFO -- : [rake ip_lookup:setup] IP_LOOKUP_API_KEY empty. Skipping geoip database setup
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #24 3.387 Loading Installation config
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #24 DONE 3.6s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #25 [21/24] RUN printf '\nPATH=$HOME/.rbenv/bin:$PATH' >> /root/.profile
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #25 DONE 0.3s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #26 [22/24] RUN printf '\nPATH=/usr/local/rvm/rubies/3.4.4/bin:/usr/local/rvm/gems/3.4.4/bin:/usr/local/rvm/gems/3.4.4@global/bin:$PATH' >> /root/.profile
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #26 DONE 0.2s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #27 [23/24] RUN printf '\nPATH=/app/node_modules/.bin:$PATH' >> /root/.profile
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #27 DONE 0.3s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #28 [24/24] COPY . /app
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #28 DONE 13.8s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #29 exporting to image
+#29 exporting layers
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #29 exporting layers 65.7s done
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #29 exporting manifest sha256:5a0983feb1317926e960f94378be2bcd4a7a164ac9b782f4cad6dce857f144f3 0.1s done
+#29 exporting config sha256:b2eb4d80ea8fa4c65028c73098c67809396862bba87f823a7853067d2ecddc99 0.0s done
+#29 exporting attestation manifest sha256:afb7512da2a1268897c9e643529fe24beea58ba60ca6585a78cc879bb0407d8e
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #29 exporting attestation manifest sha256:afb7512da2a1268897c9e643529fe24beea58ba60ca6585a78cc879bb0407d8e 0.1s done
+#29 exporting manifest list sha256:e36e1d5cf82058de6a2c37f02244cca5b79a052145b3b03ca415092e2eb19d73 0.0s done
+#29 naming to docker.io/library/hik1z8b23qwon9qzwre4g5xy:6a84e6fbbf917af2c281714d7b59991f70350df4
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #29 naming to docker.io/library/hik1z8b23qwon9qzwre4g5xy:6a84e6fbbf917af2c281714d7b59991f70350df4 done
+#29 unpacking to docker.io/library/hik1z8b23qwon9qzwre4g5xy:6a84e6fbbf917af2c281714d7b59991f70350df4
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #29 unpacking to docker.io/library/hik1z8b23qwon9qzwre4g5xy:6a84e6fbbf917af2c281714d7b59991f70350df4 103.3s done
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] #29 DONE 169.4s
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'bash /artifacts/build.sh'
+[OUT] 4 warnings found (use docker --debug to expand):
+ - UndefinedVar: Usage of undefined variable '$NIXPACKS_PATH' (line 20)
+ - SecretsUsedInArgOrEnv: Do not use ARG or ENV instructions for sensitive data (ARG "SECRET_KEY_BASE") (line 13)
+ - SecretsUsedInArgOrEnv: Do not use ARG or ENV instructions for sensitive data (ENV "SECRET_KEY_BASE") (line 14)
+ - UndefinedVar: Usage of undefined variable '$HOME' (line 20)
+[OUT] Building docker image completed.
+[OUT] Creating .env file with runtime variables for container.
+[OUT] ----------------------------------------
+[OUT] Rolling update started.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'COOLIFY_BRANCH='\''main'\'' COOLIFY_RESOURCE_UUID=hik1z8b23qwon9qzwre4g5xy  docker compose --project-name hik1z8b23qwon9qzwre4g5xy --project-directory /artifacts/6cc62458-b545-4089-8913-6a80da935dcc -f /artifacts/6cc62458-b545-4089-8913-6a80da935dcc/docker-compose.yaml up --build -d'
+[OUT] time="2026-07-18T18:59:26Z" level=warning msg="Found orphan containers ([hik1z8b23qwon9qzwre4g5xy-184126402222]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up."
+ Container hik1z8b23qwon9qzwre4g5xy-184643049364  Creating
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'COOLIFY_BRANCH='\''main'\'' COOLIFY_RESOURCE_UUID=hik1z8b23qwon9qzwre4g5xy  docker compose --project-name hik1z8b23qwon9qzwre4g5xy --project-directory /artifacts/6cc62458-b545-4089-8913-6a80da935dcc -f /artifacts/6cc62458-b545-4089-8913-6a80da935dcc/docker-compose.yaml up --build -d'
+[OUT] hik1z8b23qwon9qzwre4g5xy-184643049364 Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'COOLIFY_BRANCH='\''main'\'' COOLIFY_RESOURCE_UUID=hik1z8b23qwon9qzwre4g5xy  docker compose --project-name hik1z8b23qwon9qzwre4g5xy --project-directory /artifacts/6cc62458-b545-4089-8913-6a80da935dcc -f /artifacts/6cc62458-b545-4089-8913-6a80da935dcc/docker-compose.yaml up --build -d'
+[OUT] Container hik1z8b23qwon9qzwre4g5xy-184643049364  Created
+ Container hik1z8b23qwon9qzwre4g5xy-184643049364  Starting
+[CMD] docker exec 6cc62458-b545-4089-8913-6a80da935dcc bash -c 'COOLIFY_BRANCH='\''main'\'' COOLIFY_RESOURCE_UUID=hik1z8b23qwon9qzwre4g5xy  docker compose --project-name hik1z8b23qwon9qzwre4g5xy --project-directory /artifacts/6cc62458-b545-4089-8913-6a80da935dcc -f /artifacts/6cc62458-b545-4089-8913-6a80da935dcc/docker-compose.yaml up --build -d'
+[OUT] Container hik1z8b23qwon9qzwre4g5xy-184643049364  Started
+[OUT] New container started.
+[OUT] Removing old containers.
+[CMD] docker stop --time=30 hik1z8b23qwon9qzwre4g5xy-184126402222
+[OUT] Flag --time has been deprecated, use --timeout instead
+[CMD] docker stop --time=30 hik1z8b23qwon9qzwre4g5xy-184126402222
+[OUT] hik1z8b23qwon9qzwre4g5xy-184126402222
+[CMD] docker rm -f hik1z8b23qwon9qzwre4g5xy-184126402222
+[OUT] hik1z8b23qwon9qzwre4g5xy-184126402222
+[OUT] Rolling update completed.
+[OUT] Gracefully shutting down build container: 6cc62458-b545-4089-8913-6a80da935dcc
+[CMD] docker stop --time=30 6cc62458-b545-4089-8913-6a80da935dcc
+[OUT] Flag --time has been deprecated, use --timeout instead
+[CMD] docker stop --time=30 6cc62458-b545-4089-8913-6a80da935dcc
+[OUT] 6cc62458-b545-4089-8913-6a80da935dcc
